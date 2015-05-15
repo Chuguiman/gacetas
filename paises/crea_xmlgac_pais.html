@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+		
+	<script>
+	function crea_xml(pais, gaceta){
+	        var parametros = {
+	                "pais" : pais,
+					"gaceta" : gaceta,
+	        };
+	        $.ajax({
+                data:  parametros,
+	                url:   'paises/crear_xml.php',
+	                type:  'post',
+	                beforeSend: function () {
+	                        $("#result").html("Procesando, espere por favor...");
+	                },
+	                success:  function (response) {
+	                        $("#result").html(response);
+	                }
+	        });
+	}
+	</script>
+	
+  </head>
+  <body>
+	<h3 class="demo-panel-title">CREAR XML PAISES</h3>
+	<div class="row">
+        <div class="col-xs-3">
+			<div class="form-group">
+	        	<input type="text" id="pais" value="" placeholder="CODPAIS" class="form-control" />
+        	</div>
+        	<div class="form-group">
+	        	<input type="text" id="gaceta" value="" placeholder="# DE GAC" class="form-control" />
+        	</div>
+			<div class="form-group">			
+				<input type="button" href="javascript:;" onclick="crea_xml($('#pais').val(), $('#gaceta').val());return false;" value="Crear XML"  class="btn btn-block btn-lg btn-warning"/>
+			</div>
+        </div>
+    </div>
+	<div id="result">
+	</div>
+
+  </body>
+ </html>

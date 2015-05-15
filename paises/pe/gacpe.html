@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+		
+	<script>
+	function realizaProceso(mes, diadsd, cantidad, ngac){
+	        var parametros = {
+	                "mes" : mes,
+	                "diadsd" : diadsd,
+					"cantidad" : cantidad,
+					"ngac" : ngac
+	        };
+	        $.ajax({
+                data:  parametros,
+	                url:   'paises/pe/descarga_pe_index.php',
+	                type:  'post',
+	                beforeSend: function () {
+	                        $("#result").html("Descargando, espere por favor...");
+	                },
+	                success:  function (response) {
+	                        $("#result").html(response);
+	                }
+	        });
+	}
+	</script>
+	
+  </head>
+  <body>
+	<h3 class="demo-panel-title">Publicaciones en Perú</h3>
+	<div class="row">
+		<div class="col-xs-9">
+			<p>Direcciones WEB</p>
+			<ul>
+				<li>Oficial Perú: <a href="http://www.indecopi.gob.pe/">INDECOPI</a></li>
+				<li>Consultas <a href="http://sistemas.indecopi.gob.pe/osdconsultaspublicas/">Oficial</a></li>
+				<li><a href="http://www.estudiodelion.com.pe/wp/wpmark/">Estudio de Lion</a></li>
+			</ul>
+		</div>	
+	</div>	
+	<div class="row">
+        <div class="col-xs-3">
+        	<div class="form-group">
+	        	<input type="text" id="mes" value="" placeholder="Mes" class="form-control" />
+				
+        	</div>          
+        </div>
+		<div class="col-xs-3">
+          <div class="form-group">
+            <input type="text" id="diadsd" value="" placeholder="Desde el Día" class="form-control" />
+			<input type="text" id="cantidad" value="" placeholder="Cantidad de Días" class="form-control" />
+          </div>
+        </div>
+		<div class="col-xs-3">
+          <div class="form-group">
+            <input type="text" id="ngac" value="" placeholder="#GAC" class="form-control" />
+          </div>
+        </div>
+		<div class="col-xs-3">
+			<input type="button" href="javascript:;" onclick="realizaProceso($('#mes').val(), $('#diadsd').val(), $('#cantidad').val(), $('#ngac').val());return false;" value="Descarga Mes-Dia"  class="btn btn-block btn-lg btn-success"/>
+        </div>
+    </div>
+	<div id="result">
+	</div>
+
+  </body>
+ </html>

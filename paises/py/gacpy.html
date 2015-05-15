@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    
+		
+  </head>
+  <body>
+	<h3 class="demo-panel-title">Nº de Boletín Oficial</h3>
+	<div class="row">
+		<div class="col-xs-9">
+			<p>Direcciones WEB</p>
+			<ul>
+				<li>Oficial PARAGUAY: <a href="http://www.dinapi.gov.py/">DINAPI</a></li>
+				<li><a href="">Boletines Oficial</a></li>
+			</ul>
+		</div>	
+	</div>	
+	<div class="row">
+	<form enctype="multipart/form-data" action="paises/py/import2.php" method="post">
+	<input type="hidden" name="MAX_FILE_SIZE" value="2000000" />
+		<div class="row">
+			<div class="col-xs-3">
+				<div class="form-group">
+					<input type="file" name="file"/>
+				</div>          
+			</div>
+		</div>	
+			<div class="col-xs-3">
+				<input type="submit" value="Transforma" class="btn btn-block btn-lg btn-success" />
+			</div>
+	</form>	
+    </div>
+	<div id="result">
+	</div>
+
+  </body>
+ </html>

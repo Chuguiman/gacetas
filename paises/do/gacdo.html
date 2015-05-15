@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+		
+	<script>
+	function realizaProceso(ngac){
+	        var parametros = {
+	                "ngac" : ngac,
+	        };
+	        $.ajax({
+                data:  parametros,
+	                url:   'paises/do/descarga_do_index.php',
+	                type:  'post',
+	                beforeSend: function () {
+	                        $("#result").html("Procesando, espere por favor...");
+	                },
+	                success:  function (response) {
+	                        $("#result").html(response);
+	                }
+	        });
+	}
+	</script>
+	
+  </head>
+  <body>
+	<h3 class="demo-panel-title">Nº de Boletín Oficial</h3>
+	<div class="row">
+		<div class="col-xs-9">
+			<p>Direcciones WEB</p>
+			<ul>
+				<li>Oficial REP. DOMINICANA: <a href="http://www.onapi.gov.do/">ONAPI</a></li>
+				<li><a href="http://www.onapi.gov.do/departamentodepublicaciones.html">Boletines Oficial</a></li>
+				<li>Consultas <a href="http://www.onapi.gov.do/estatus-expedientes.html">Oficial</a></li>
+			</ul>
+		</div>	
+	</div>	
+	<div class="row">
+        <div class="col-xs-3">
+        	<div class="form-group">
+	        	<input type="text" id="ngac" value="" placeholder="# de Boletín" class="form-control" />
+        	</div>          
+        </div>
+		<div class="col-xs-3">
+			<input type="button" href="javascript:;" onclick="realizaProceso($('#ngac').val());return false;" value="Transforma"  class="btn btn-block btn-lg btn-success"/>
+        </div>
+    </div>
+	<div id="result">
+	</div>
+
+  </body>
+ </html>

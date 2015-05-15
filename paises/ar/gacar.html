@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+		
+	<script>
+	function realizaProceso(ngac, fechapub){
+	        var parametros = {
+	                "ngac" : ngac,
+					"fechapub" : fechapub,
+	        };
+	        $.ajax({
+                data:  parametros,
+	                url:   'paises/ar/descarga_ar_index.php',
+	                type:  'post',
+	                beforeSend: function () {
+	                        $("#result").html("Procesando, espere por favor...");
+	                },
+	                success:  function (response) {
+	                        $("#result").html(response);
+	                }
+	        });
+	}
+	</script>
+  </head>
+  <body>
+	<h3 class="demo-panel-title">Descarga Boletín Argentina</h3>
+	<div class="row">
+		<div class="col-xs-9">
+			<p>Direcciones WEB</p>
+			<ul>
+				<li>Oficial Argentina: <a href="http://www.inpi.gov.ar/">INPI</a></li>
+				<li><a href="http://www.inpi.gov.ar/index.php?Id=115&criterio=3">Boletines</a></li>
+				<li>Consultas <a href="https://portaltramites.inpi.gob.ar/Docs/FormulariosConsultas/MarConsultaAvanzada.asp">Oficial</a></li>
+			</ul>
+		</div>	
+	</div>	
+	<div class="row">
+        <div class="col-xs-3">
+        	<div class="form-group">
+	        	<input type="text" id="ngac" value="" placeholder="# de GAC" class="form-control" />
+        	</div>          
+        </div>
+		<div class="col-xs-3">
+        	<div class="form-group">
+	        	<input type="text" id="fechapub" value="" placeholder="Fecha pub de GAC" class="form-control" />
+        	</div>          
+        </div>
+		<div class="col-xs-3">
+			<input type="button" href="javascript:;" onclick="realizaProceso($('#ngac').val(), $('#fechapub').val());return false;" value="Transforma"  class="btn btn-block btn-lg btn-success"/>
+        </div>
+    </div>
+	<div id="result">
+	</div>
+
+  </body>
+ </html>

@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+		
+	<script>
+	function realizaProceso(fechapub){
+	        var parametros = {
+					"fechapub" : fechapub
+	        };
+	        $.ajax({
+                data:  parametros,
+	                url:   'paises/gt/pre_gt.php',
+	                type:  'post',
+	                beforeSend: function () {
+	                        $("#result").html("Descargando, espere por favor...");
+	                },
+	                success:  function (response) {
+	                        $("#result").html(response);
+	                }
+	        });
+	}
+	</script>
+	
+  </head>
+  <body>
+	<h3 class="demo-panel-title">Descarga Boletín Guatemala</h3>
+	<div class="row">
+		<div class="col-xs-9">
+			<p>Direcciones WEB</p>
+			<ul>
+				<li>Oficial Guatemala: <a href="https://www.rpi.gob.gt/">RPI</a></li>
+				<li><a href="https://www.rpi.gob.gt/rpigaceta">Boletines - BORPI</a></li>
+				<li>Consultas <a href="https://www.rpi.gob.gt/eRPIconsulta/">Oficial</a></li>
+			</ul>
+		</div>	
+	</div>	
+	<div class="row">
+        <div class="col-xs-3">
+        	<div class="form-group">
+	        	<input type="text" id="fechapub" value="" placeholder="MES/DIA/AÑO" class="form-control" />
+				
+        	</div>          
+        </div>
+		<div class="col-xs-3">
+			<input type="button" href="javascript:;" onclick="realizaProceso($('#fechapub').val());return false;" value="Descarga Dia"  class="btn btn-block btn-lg btn-success"/>
+        </div>
+    </div>
+	<div id="result">
+	</div>
+
+  </body>
+ </html>
