@@ -1,0 +1,721 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"cadsw"
+			],
+			[
+				"fech",
+				"fechapub"
+			],
+			[
+				"fecha",
+				"fechapub"
+			],
+			[
+				"fe",
+				"fechapres"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"apo",
+				"apoderado"
+			],
+			[
+				"titu",
+				"titular"
+			],
+			[
+				"denomi",
+				"denomi"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"deno",
+				"denomi"
+			],
+			[
+				"tipo",
+				"tipomarca"
+			],
+			[
+				"ex",
+				"expv"
+			],
+			[
+				"echo",
+				"echo	echo \"…\""
+			],
+			[
+				"sql",
+				"sql7"
+			],
+			[
+				"mysql_f",
+				"mysql_fetch_assoc"
+			],
+			[
+				"exp",
+				"expediente"
+			],
+			[
+				"sq",
+				"sql"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"pi",
+				"prioridad"
+			],
+			[
+				"clas",
+				"clases"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"de",
+				"denominacion"
+			],
+			[
+				"di",
+				"dirx"
+			],
+			[
+				"ti",
+				"titulares"
+			],
+			[
+				"pa",
+				"paisx"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"xml",
+				"xml2"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"ree",
+				"reea"
+			],
+			[
+				"n",
+				"nivel2"
+			],
+			[
+				"pir",
+				"print_r"
+			],
+			[
+				"S",
+				"SIGNO"
+			],
+			[
+				"ng",
+				"ngac"
+			],
+			[
+				"cla",
+				"clasniza"
+			],
+			[
+				"t",
+				"tipodenomi"
+			],
+			[
+				"e",
+				"exp"
+			],
+			[
+				"pre",
+				"processo"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"pro",
+				"proceso"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"fec",
+				"fechpres"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"id",
+				"idant"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"P",
+				"PRODYSERV"
+			],
+			[
+				"DE",
+				"DENOMI"
+			],
+			[
+				"T",
+				"TITABRV"
+			],
+			[
+				"EX",
+				"EXPP"
+			],
+			[
+				"con",
+				"contenido"
+			],
+			[
+				"ut",
+				"utf8_encode"
+			],
+			[
+				"gesr",
+				"gestor"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"h",
+				"H2	Tag"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"fk_",
+				"fk_id_usuario"
+			],
+			[
+				"id_a",
+				"id_actividad"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "paises/gt/descarga_gacgt_dia.php",
+			"settings":
+			{
+				"buffer_size": 8748,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"e",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ind",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"PA",
+				"Package Control: Install Package"
+			],
+			[
+				"pag",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/gt/gacgt.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/css/demo.css",
+		"/Users/hugorincon/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/gt/descarga_gacgt_dia.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/gt/precarga_dia_gacgt.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ar/_func_html2xmlgac_ar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/do/origen/340.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ec/_func_xmlgac2_ec.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ec/gacec.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ec/descarga_ec_index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ec/crear_xml.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sv/_func_xmlgac_sv4.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ec/origen/602.xml",
+		"/Volumes/CHUGUIMAN2/curso2/curso2/clases/registro2-1.php",
+		"/Volumes/CHUGUIMAN2/curso2/curso2/registro.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sv/transforma_gacsv4.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sv/origen/622.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sv/origen/52.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sv/origen/59.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ar/descarga_ar_index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ar/_func_xmlgac_ar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/uy/_func_xmlgac_uy.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/uy/crear_xml.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pa/crear_xml.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ar/gacar.html",
+		"/Applications/XAMPP/xamppfiles/etc/php.ini",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pa/descarga_pa_index.php",
+		"/private/var/folders/jg/3dzj7b_x56d4gy_0lwz7y7mc0000gn/T/fz3temp-1/ret_frmxopc.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ar/transxmlgacar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/uy/gacuy.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ar/origen/3974.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ar/origen/3391118.xml",
+		"/Users/hugorincon/Dropbox/ORBISOFT/Notificaciones/afectaciones_tr/MOV20150428.TXT",
+		"/Users/hugorincon/Dropbox/ORBISOFT/Notificaciones/afectaciones_tr/MOV20150505.TXT",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/xmltit2txt.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT694.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT694.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT693.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT693.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT692.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT692.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT691.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT690.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT690.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT689.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT688.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT688.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT687.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT686.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT686.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT685.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT685.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT684.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT683.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT683.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT682.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT681.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT680.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT679.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT678.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/titulos/TIT676.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/xx/simple.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/xx/Signos700_19112014.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/xx/prueba1_ar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/xx/_func_xmlgac_ec.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/xx/_func_html2xmlgac_do.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/XML/GACPOX318.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/XML/GACPO319.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/XML/GACPA319.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/uy/XML/GACUY183.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/uy/XML/GACUY182.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/uy/origen/187m.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/uy/origen/187.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/uy/transxmlgacuy.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/tmp/184.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sv/origen/58.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sv/origen/57.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sv/origen/56.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sv/origen/55.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sv/origen/54.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sv/origen/53.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sv/origen/51.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sv/gacsv2.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sv/crear_xml.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sinprocesar/ni/g214.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sinprocesar/ho/33425/gaceta_zoom_033.svg",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sinprocesar/ho/33425/canvas.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sinprocesar/cr/tmp/MARC_14_11_2014x.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sinprocesar/cr/tmp/MARC_14_11_2014x.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sinprocesar/cr/tmp/14112014.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sinprocesar/cr/tmp/14112014.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sinprocesar/cr/tmp/14112014.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sinprocesar/cr/guardar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sinprocesar/cr/form_ingresodatos_cr.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sinprocesar/cr/flat-ui.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sinprocesar/cr/descarga_cr_index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sinprocesar/cr/conexion.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/sinprocesar/cr/_func_xmlgac_cr.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/py/XML/GACPY14.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/py/XML/GACPY12.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/py/upload.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/py/import2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/py/gacpy.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pe/XML/GACPE018.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pe/XML/GACPE016.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pe/XML/GACPE015.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pe/XML/GACPE014.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pe/XML/GACPE013.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pe/XML/GACPE012.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pe/XML/GACPE011.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pe/XML/GACPE010.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pe/gacpe.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pe/descarga_pe_index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pe/_func_html2xmlgac_pe.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pa/origen/319.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pa/origen/31.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pa/gacpa.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pa/_func_html2xmlgac_pa.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/gt/GT16122014.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/gt/descarga_gacgt.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ec/XML/GACEC598.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ec/origen/598.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ec/origen/597.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ec/origen/596.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/do/XML/GACDO332.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/do/XML/GACDO331.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/do/XML/GACDO330.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/do/XML/GACDO328.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"20158775",
+			"Page Number=\"443\"/>",
+			"          ",
+			"(740)",
+			"openssl",
+			";openssl.cafile=\nopenssl\nopenss",
+			";openssl.cafile=\n",
+			"mysql",
+			"$datoadato[\"tipomarca\"];",
+			"\"",
+			"457188",
+			"463005",
+			"234056",
+			"236687",
+			"DIGERPI",
+			"227679",
+			"[21]",
+			"tmp",
+			"navicat",
+			"destino",
+			"classe-nice",
+			"IPAS009",
+			"&#209;",
+			"error_reporting",
+			"short_open_tag",
+			"2014138183",
+			"echo",
+			"clase",
+			"claseant",
+			"addCDATA",
+			" SimpleXMLElement",
+			" \"<",
+			"REPRESENTANTE",
+			"- ",
+			"CLASE",
+			"ret_txtfile1",
+			"ret_mmarcas_xmlgac",
+			"2015",
+			"\"",
+			"SIN R",
+			"\"",
+			"SIN R",
+			"\"",
+			"SIN RE",
+			"\"",
+			"5",
+			"input",
+			"\"",
+			"FROM usuarios"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"root",
+			"Ñ",
+			"fechpres",
+			"fechpresant",
+			"",
+			"FROM cry_usuarios"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "paises/gt/descarga_gacgt_dia.php",
+					"settings":
+					{
+						"buffer_size": 8748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								302
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2695.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true
+}
