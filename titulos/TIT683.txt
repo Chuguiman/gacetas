@@ -1,0 +1,2677 @@
+-----------------------------
+-denomi: MACNA
+-certi: 481492
+-clase: 9
+-anoexp: 12 230824 9
+-numpub: 1
+-vigen: 08/02/2016
+-tipo: MIXTA
+-solic: Splash Design B.V.
+-domic:   PAISES BAJOS
+-----------------------------
+-denomi: MACNA
+-certi: 481492
+-clase: 18
+-anoexp: 12 230824 18
+-numpub: 1
+-vigen: 08/02/2016
+-tipo: MIXTA
+-solic: Splash Design B.V.
+-domic:   PAISES BAJOS
+-----------------------------
+-denomi: MACNA
+-certi: 481492
+-clase: 25
+-anoexp: 12 230824 25
+-numpub: 1
+-vigen: 08/02/2016
+-tipo: MIXTA
+-solic: Splash Design B.V.
+-domic:   PAISES BAJOS
+-----------------------------
+-denomi: PURSUIT SERIES
+-certi: 481493
+-clase: 20
+-anoexp: 13 82135
+-numpub: 2
+-vigen: 27/09/2022
+-tipo: MIXTA
+-solic: Otter Products, LLC
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: MAGNILOG
+-certi: 481494
+-clase: 5
+-anoexp: 13 82138
+-numpub: 3
+-vigen: 11/02/2023
+-tipo: MIXTA
+-solic: SANOFI
+-domic:   FRANCIA
+-----------------------------
+-denomi: AZORA
+-certi: 481495
+-clase: 36
+-anoexp: 13 82145 36
+-numpub: 4
+-vigen: 04/03/2023
+-tipo: MIXTA
+-solic: Azora Capital, S.L.
+-domic:   ESPAÑA
+-----------------------------
+-denomi: AZORA
+-certi: 481495
+-clase: 37
+-anoexp: 13 82145 37
+-numpub: 4
+-vigen: 04/03/2023
+-tipo: MIXTA
+-solic: Azora Capital, S.L.
+-domic:   ESPAÑA
+-----------------------------
+-denomi: AZORA
+-certi: 481495
+-clase: 43
+-anoexp: 13 82145 43
+-numpub: 4
+-vigen: 04/03/2023
+-tipo: MIXTA
+-solic: Azora Capital, S.L.
+-domic:   ESPAÑA
+-----------------------------
+-denomi: MyCampus
+-certi: 481496
+-clase: 36
+-anoexp: 13 82146 36
+-numpub: 5
+-vigen: 04/03/2023
+-tipo: MIXTA
+-solic: Azora Capital, S.L.
+-domic:  ESPAÑA
+-----------------------------
+-denomi: MyCampus
+-certi: 481496
+-clase: 37
+-anoexp: 13 82146 37
+-numpub: 5
+-vigen: 04/03/2023
+-tipo: MIXTA
+-solic: Azora Capital, S.L.
+-domic:  ESPAÑA
+-----------------------------
+-denomi: MyCampus
+-certi: 481496
+-clase: 43
+-anoexp: 13 82146 43
+-numpub: 5
+-vigen: 04/03/2023
+-tipo: MIXTA
+-solic: Azora Capital, S.L.
+-domic:  ESPAÑA
+-----------------------------
+-certi: 481497
+-clase: 25
+-anoexp: 13 82148
+-numpub: 6
+-vigen: 26/02/2023
+-tipo: FIGURATIVA
+-solic: JOEONE CO.,LTD.
+-domic:   REPUBLICA POPULAR DE CHINA
+-----------------------------
+-denomi: CORACTO
+-certi: 481498
+-clase: 10
+-anoexp: 13 82149
+-numpub: 7
+-vigen: 25/12/2022
+-tipo: MIXTA
+-solic: ALVIMEDICA SAGLIK YATIRIMLARI ANONIM SIRKETI
+-domic:   TURQUIA
+-----------------------------
+-denomi: RADETEC
+-certi: 481499
+-clase: 9
+-anoexp: 13 82150 9
+-numpub: 8
+-vigen: 03/12/2022
+-tipo: MIXTA
+-solic: RADE TECNOLOGÍAS, S.L.
+-domic:   ESPAÑA
+-----------------------------
+-denomi: RADETEC
+-certi: 481499
+-clase: 13
+-anoexp: 13 82150 13
+-numpub: 8
+-vigen: 03/12/2022
+-tipo: MIXTA
+-solic: RADE TECNOLOGÍAS, S.L.
+-domic:   ESPAÑA
+-----------------------------
+-denomi: RADETEC
+-certi: 481499
+-clase: 42
+-anoexp: 13 82150 42
+-numpub: 8
+-vigen: 03/12/2022
+-tipo: MIXTA
+-solic: RADE TECNOLOGÍAS, S.L.
+-domic:   ESPAÑA
+-----------------------------
+-denomi: DUNHILL CLASSIC BLEND
+-certi: 481500
+-clase: 34
+-anoexp: 13 82151
+-numpub: 9
+-vigen: 22/11/2022
+-tipo: MIXTA
+-solic: Dunhill Tobacco of London Limited
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: SPEY MEDICAL
+-certi: 481501
+-clase: 5
+-anoexp: 13 82152
+-numpub: 10
+-vigen: 06/12/2022
+-tipo: MIXTA
+-solic: Spey Medical Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: Be-Bound
+-certi: 481502
+-clase: 35
+-anoexp: 13 82153 35
+-numpub: 11
+-vigen: 21/12/2022
+-tipo: MIXTA
+-solic: ALTHEIA
+-domic:   FRANCIA
+-----------------------------
+-denomi: Be-Bound
+-certi: 481502
+-clase: 38
+-anoexp: 13 82153 38
+-numpub: 11
+-vigen: 21/12/2022
+-tipo: MIXTA
+-solic: ALTHEIA
+-domic:   FRANCIA
+-----------------------------
+-denomi: Be-Bound
+-certi: 481502
+-clase: 42
+-anoexp: 13 82153 42
+-numpub: 11
+-vigen: 21/12/2022
+-tipo: MIXTA
+-solic: ALTHEIA
+-domic:   FRANCIA
+-----------------------------
+-denomi: EXCELLIA
+-certi: 481503
+-clase: 32
+-anoexp: 13 82154 32
+-numpub: 12
+-vigen: 31/01/2023
+-tipo: MIXTA
+-solic: EuroWineGate S.A.S.
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: EXCELLIA
+-certi: 481503
+-clase: 33
+-anoexp: 13 82154 33
+-numpub: 12
+-vigen: 31/01/2023
+-tipo: MIXTA
+-solic: EuroWineGate S.A.S.
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: SCR
+-certi: 481504
+-clase: 9
+-anoexp: 13 82157
+-numpub: 13
+-vigen: 15/01/2023
+-tipo: MIXTA
+-solic: SCR Engineers Ltd.
+-domic:   ISRAEL
+-----------------------------
+-denomi: MAKE EVERY COW COUNT
+-certi: 481505
+-clase: 9
+-anoexp: 13 82158
+-numpub: 14
+-vigen: 15/01/2023
+-tipo: MIXTA
+-solic: SCR Engineers Ltd.
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: ALTER ECO
+-certi: 481506
+-clase: 30
+-anoexp: 13 82161
+-numpub: 15
+-vigen: 08/02/2023
+-tipo: MIXTA
+-solic: Alter Eco Americas Inc.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: DRYBLOCK
+-certi: 481507
+-clase: 7
+-anoexp: 13 82162
+-numpub: 16
+-vigen: 06/02/2023
+-tipo: MIXTA
+-solic: OCME S.r.l.
+-domic:   ITALIA
+-----------------------------
+-denomi: Alen Dione
+-certi: 481508
+-clase: 14
+-anoexp: 13 82163
+-numpub: 17
+-vigen: 14/01/2021
+-tipo: MIXTA
+-solic: DRUGUET, S.A.
+-domic:   ESPAÑA
+-----------------------------
+-denomi: LORINA
+-certi: 481509
+-clase: 32
+-anoexp: 13 82165
+-numpub: 18
+-vigen: 19/03/2019
+-tipo: MIXTA
+-solic: ETABLISSEMENTS GEYER FRERES
+-domic:   FRANCIA
+-----------------------------
+-denomi: VIÑA EL PISON
+-certi: 481510
+-clase: 33
+-anoexp: 13 82166
+-numpub: 19
+-vigen: 12/05/2019
+-tipo: MIXTA
+-solic: VIÑEDOS LACALLE Y LAORDEN, S.A.
+-domic:   ESPAÑA
+-----------------------------
+-denomi: TESTA
+-certi: 481511
+-clase: 24
+-anoexp: 13 82167
+-numpub: 20
+-vigen: 18/06/2013
+-tipo: MIXTA
+-solic: T.E.S.T.A. TESSITURA E STAMPA TESSUTI ABBIGLIAMENTO S.P.A.
+-domic:   ITALIA
+-----------------------------
+-denomi: TESTA
+-certi: 481511
+-clase: 24
+-anoexp: 13 82167
+-numpub: 21
+-vigen: 18/06/2013
+-tipo: MIXTA
+-solic: T.E.S.T.A. TESSITURA E STAMPA TESSUTI ABBIGLIAMENTO S.P.A.
+-domic:   ITALIA
+-----------------------------
+-denomi: ATELIER ROMENTINO
+-certi: 481512
+-clase: 24
+-anoexp: 13 82168
+-numpub: 22
+-vigen: 10/06/2015
+-tipo: MIXTA
+-solic: T.E.S.T.A. TESSITURA E STAMPA TESSUTI ABBIGLIAMENTO S.P.A.
+-domic:   ITALIA
+-----------------------------
+-denomi: HYTREAT
+-certi: 481513
+-clase: 1
+-anoexp: 13 82170 1
+-numpub: 23
+-vigen: 01/02/2018
+-tipo: MIXTA
+-solic: Clariant AG
+-domic:   SUIZA
+-----------------------------
+-denomi: HYTREAT
+-certi: 481513
+-clase: 2
+-anoexp: 13 82170 2
+-numpub: 23
+-vigen: 01/02/2018
+-tipo: MIXTA
+-solic: Clariant AG
+-domic:   SUIZA
+-----------------------------
+-denomi: FRD
+-certi: 481514
+-clase: 7
+-anoexp: 13 82172 7
+-numpub: 24
+-vigen: 17/02/2019
+-tipo: MIXTA
+-solic: FURUKAWA ROCK DRILL CO., LTD.
+-domic:   JAPON
+-----------------------------
+-denomi: FRD
+-certi: 481514
+-clase: 37
+-anoexp: 13 82172 37
+-numpub: 24
+-vigen: 17/02/2019
+-tipo: MIXTA
+-solic: FURUKAWA ROCK DRILL CO., LTD.
+-domic:   JAPON
+-----------------------------
+-denomi: SEA HAWK
+-certi: 481515
+-clase: 14
+-anoexp: 13 82175
+-numpub: 25
+-vigen: 31/08/2020
+-tipo: MIXTA
+-solic: Sowind S.A.
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: nicoline PICCOLA SARTORIA ITALIANA
+-certi: 481516
+-clase: 20
+-anoexp: 13 82176
+-numpub: 26
+-vigen: 02/03/2021
+-tipo: MIXTA
+-solic: NICOLINE SALOTTI S.R.L.
+-domic:   ITALIA
+-----------------------------
+-denomi: ContiATTACK
+-certi: 481517
+-clase: 12
+-anoexp: 13 82177
+-numpub: 27
+-vigen: 28/04/2021
+-tipo: MIXTA
+-solic: Continental Reifen Deutschland GmbH
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: PROTECHDRY
+-certi: 481518
+-clase: 5
+-anoexp: 13 82178
+-numpub: 28
+-vigen: 02/12/2021
+-tipo: MIXTA
+-solic: IMPETUS PORTUGAL-TÊXTEIS, S.A.
+-domic:   PORTUGAL
+-----------------------------
+-denomi: MC-27J
+-certi: 481519
+-clase: 9
+-anoexp: 13 82179 9
+-numpub: 29
+-vigen: 27/11/2022
+-tipo: MIXTA
+-solic: ALENIA AERMACCHI S.P.A.
+-domic:   ITALIA
+-----------------------------
+-denomi: MC-27J
+-certi: 481519
+-clase: 12
+-anoexp: 13 82179 12
+-numpub: 29
+-vigen: 27/11/2022
+-tipo: MIXTA
+-solic: ALENIA AERMACCHI S.P.A.
+-domic:   ITALIA
+-----------------------------
+-denomi: MC-27J
+-certi: 481519
+-clase: 13
+-anoexp: 13 82179 13
+-numpub: 29
+-vigen: 27/11/2022
+-tipo: MIXTA
+-solic: ALENIA AERMACCHI S.P.A.
+-domic:   ITALIA
+-----------------------------
+-denomi: THE GREAT COVERUP
+-certi: 481520
+-clase: 3
+-anoexp: 13 94456
+-numpub: 30
+-vigen: 26/02/2023
+-tipo: MIXTA
+-solic: L´OREAL (Société Anonyme)
+-domic:   FRANCIA
+-----------------------------
+-denomi: GREENPATCH
+-certi: 481521
+-clase: 19
+-anoexp: 13 94458
+-numpub: 31
+-vigen: 08/03/2023
+-tipo: MIXTA
+-solic: Cold Mix Manufacturing Corp.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: RT RUPTLY
+-certi: 481522
+-clase: 9
+-anoexp: 13 94459 9
+-numpub: 32
+-vigen: 01/02/2023
+-tipo: MIXTA
+-solic: Autonomous nonprofit organization "TV-Novosti"
+-domic:   FEDERACION RUSA
+-----------------------------
+-denomi: RT RUPTLY
+-certi: 481522
+-clase: 38
+-anoexp: 13 94459 38
+-numpub: 32
+-vigen: 01/02/2023
+-tipo: MIXTA
+-solic: Autonomous nonprofit organization "TV-Novosti"
+-domic:   FEDERACION RUSA
+-----------------------------
+-denomi: RT RUPTLY
+-certi: 481522
+-clase: 41
+-anoexp: 13 94459 41
+-numpub: 32
+-vigen: 01/02/2023
+-tipo: MIXTA
+-solic: Autonomous nonprofit organization "TV-Novosti"
+-domic:   FEDERACION RUSA
+-----------------------------
+-denomi: TWILIGHT
+-certi: 481523
+-clase: 9
+-anoexp: 13 94463 9
+-numpub: 33
+-vigen: 10/12/2022
+-tipo: MIXTA
+-solic: Summit Entertainment, LLC
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: TWILIGHT
+-certi: 481523
+-clase: 14
+-anoexp: 13 94463 14
+-numpub: 33
+-vigen: 10/12/2022
+-tipo: MIXTA
+-solic: Summit Entertainment, LLC
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: TWILIGHT
+-certi: 481523
+-clase: 16
+-anoexp: 13 94463 16
+-numpub: 33
+-vigen: 10/12/2022
+-tipo: MIXTA
+-solic: Summit Entertainment, LLC
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: TWILIGHT
+-certi: 481523
+-clase: 18
+-anoexp: 13 94463 18
+-numpub: 33
+-vigen: 10/12/2022
+-tipo: MIXTA
+-solic: Summit Entertainment, LLC
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: TWILIGHT
+-certi: 481523
+-clase: 25
+-anoexp: 13 94463 25
+-numpub: 33
+-vigen: 10/12/2022
+-tipo: MIXTA
+-solic: Summit Entertainment, LLC
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: RISING HOURS
+-certi: 481524
+-clase: 14
+-anoexp: 13 94464 14
+-numpub: 34
+-vigen: 06/12/2022
+-tipo: MIXTA
+-solic: Montblanc-Simplo GmbH
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: RISING HOURS
+-certi: 481524
+-clase: 16
+-anoexp: 13 94464 16
+-numpub: 34
+-vigen: 06/12/2022
+-tipo: MIXTA
+-solic: Montblanc-Simplo GmbH
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: FOTON TOTAL CARE
+-certi: 481525
+-clase: 35
+-anoexp: 13 94465 35
+-numpub: 35
+-vigen: 01/02/2023
+-tipo: MIXTA
+-solic: BEIQI FOTON MOTOR CO., LTD.
+-domic:   REPUBLICA POPULAR DE CHINA
+-----------------------------
+-denomi: FOTON TOTAL CARE
+-certi: 481525
+-clase: 37
+-anoexp: 13 94465 37
+-numpub: 35
+-vigen: 01/02/2023
+-tipo: MIXTA
+-solic: BEIQI FOTON MOTOR CO., LTD.
+-domic:   REPUBLICA POPULAR DE CHINA
+-----------------------------
+-denomi: FORLAND TOTAL CARE
+-certi: 481526
+-clase: 35
+-anoexp: 13 94466 35
+-numpub: 36
+-vigen: 01/02/2023
+-tipo: MIXTA
+-solic: BEIQI FOTON MOTOR CO., LTD.
+-domic:   REPUBLICA POPULAR DE CHINA
+-----------------------------
+-denomi: FORLAND TOTAL CARE
+-certi: 481526
+-clase: 37
+-anoexp: 13 94466 37
+-numpub: 36
+-vigen: 01/02/2023
+-tipo: MIXTA
+-solic: BEIQI FOTON MOTOR CO., LTD.
+-domic:   REPUBLICA POPULAR DE CHINA
+-----------------------------
+-denomi: PILLOW PLUSH
+-certi: 481527
+-clase: 3
+-anoexp: 13 94467
+-numpub: 37
+-vigen: 26/02/2023
+-tipo: MIXTA
+-solic: L´OREAL (Société Anonyme)
+-domic:   FRANCIA
+-----------------------------
+-denomi: GreenPatch Paving the way to GO GREEN.
+-certi: 481528
+-clase: 19
+-anoexp: 13 94469 19
+-numpub: 38
+-vigen: 08/03/2023
+-tipo: MIXTA
+-solic: Cold Mix Manufacturing Corp.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: GreenPatch Paving the way to GO GREEN.
+-certi: 481528
+-clase: 25
+-anoexp: 13 94469 25
+-numpub: 38
+-vigen: 08/03/2023
+-tipo: MIXTA
+-solic: Cold Mix Manufacturing Corp.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: FINAL EDIT
+-certi: 481529
+-clase: 3
+-anoexp: 13 94470
+-numpub: 39
+-vigen: 07/03/2023
+-tipo: MIXTA
+-solic: L'OREAL
+-domic:   FRANCIA
+-----------------------------
+-denomi: DREAMTONE
+-certi: 481530
+-clase: 3
+-anoexp: 13 94471
+-numpub: 40
+-vigen: 29/01/2023
+-tipo: MIXTA
+-solic: LANCOME PARFUMS ET BEAUTE AND CIE
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: DUNHILL BRIGHT BLEND
+-certi: 481531
+-clase: 34
+-anoexp: 13 94472
+-numpub: 41
+-vigen: 22/11/2022
+-tipo: MIXTA
+-solic: Dunhill Tobacco of London Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: DUNHILL SIGNATURE BLEND
+-certi: 481532
+-clase: 34
+-anoexp: 13 94473
+-numpub: 42
+-vigen: 22/11/2022
+-tipo: MIXTA
+-solic: Dunhill Tobacco of London Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: SAIXIN
+-certi: 481533
+-clase: 7
+-anoexp: 13 94474
+-numpub: 43
+-vigen: 28/12/2022
+-tipo: MIXTA
+-solic: JINAN SAIXIN MACHINERY CO.,LTD.
+-domic:   REPUBLICA POPULAR DE CHINA
+-----------------------------
+-denomi: MARKEL
+-certi: 481534
+-clase: 36
+-anoexp: 13 94476
+-numpub: 44
+-vigen: 18/02/2023
+-tipo: MIXTA
+-solic: Markel Corporation
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: MASTERLIFE
+-certi: 481535
+-clase: 1
+-anoexp: 13 94478
+-numpub: 45
+-vigen: 08/03/2023
+-tipo: MIXTA
+-solic: Construction Research and Technology GmbH
+-domic:   ALEMANIA
+-----------------------------
+-denomi: THE SOCIAL MACHINE
+-certi: 481536
+-clase: 42
+-anoexp: 13 94485
+-numpub: 46
+-vigen: 13/02/2023
+-tipo: MIXTA
+-solic: Digi International Inc.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: TNACITY
+-certi: 481537
+-clase: 42
+-anoexp: 13 94496
+-numpub: 47
+-vigen: 11/02/2023
+-tipo: MIXTA
+-solic: Celgene Corporation
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: FLUKE
+-certi: 481538
+-clase: 9
+-anoexp: 13 94497
+-numpub: 48
+-vigen: 01/02/2023
+-tipo: MIXTA
+-solic: Fluke Corporation
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: WHEEL PROS
+-certi: 481539
+-clase: 12
+-anoexp: 13 94498
+-numpub: 49
+-vigen: 21/11/2022
+-tipo: MIXTA
+-solic: Wheel Pros, LLC
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: VIONARO
+-certi: 481540
+-clase: 6
+-anoexp: 13 94499 6
+-numpub: 50
+-vigen: 13/11/2022
+-tipo: MIXTA
+-solic: Grass GmbH
+-domic:   AUSTRIA
+-----------------------------
+-denomi: VIONARO
+-certi: 481540
+-clase: 7
+-anoexp: 13 94499 7
+-numpub: 50
+-vigen: 13/11/2022
+-tipo: MIXTA
+-solic: Grass GmbH
+-domic:   AUSTRIA
+-----------------------------
+-denomi: VIONARO
+-certi: 481540
+-clase: 20
+-anoexp: 13 94499 20
+-numpub: 50
+-vigen: 13/11/2022
+-tipo: MIXTA
+-solic: Grass GmbH
+-domic:   AUSTRIA
+-----------------------------
+-denomi: SMOOTH´N SHINE
+-certi: 481541
+-clase: 3
+-anoexp: 13 94500
+-numpub: 51
+-vigen: 30/01/2023
+-tipo: MIXTA
+-solic: Henkel AG and Co. KGaA
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: MIRIFIQUE
+-certi: 481542
+-clase: 3
+-anoexp: 13 94502
+-numpub: 52
+-vigen: 01/03/2023
+-tipo: MIXTA
+-solic: LANCOME PARFUMS ET BEAUTE AND CIE
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: MARKEL
+-certi: 481543
+-clase: 36
+-anoexp: 13 94504
+-numpub: 53
+-vigen: 18/02/2023
+-tipo: MIXTA
+-solic: Markel Corporation
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: ALPARI
+-certi: 481544
+-clase: 36
+-anoexp: 13 94506
+-numpub: 54
+-vigen: 22/11/2017
+-tipo: MIXTA
+-solic: ALPARI (UK) LIMITED
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: GSRD
+-certi: 481545
+-clase: 18
+-anoexp: 13 94507 18
+-numpub: 55
+-vigen: 27/01/2020
+-tipo: MIXTA
+-solic: Facton Ltd.
+-domic:   PAISES BAJOS
+-----------------------------
+-denomi: GSRD
+-certi: 481545
+-clase: 25
+-anoexp: 13 94507 25
+-numpub: 55
+-vigen: 27/01/2020
+-tipo: MIXTA
+-solic: Facton Ltd.
+-domic:   PAISES BAJOS
+-----------------------------
+-denomi: PREFIX SERIES
+-certi: 481546
+-clase: 9
+-anoexp: 13 82134
+-numpub: 56
+-vigen: 27/09/2022
+-tipo: MIXTA
+-solic: Otter Products, LLC
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: orange
+-certi: 481547
+-clase: 9
+-anoexp: 13 100334 9
+-numpub: 57
+-vigen: 26/12/2022
+-tipo: MIXTA
+-solic: Orange Brand Services Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: orange
+-certi: 481547
+-clase: 38
+-anoexp: 13 100334 38
+-numpub: 57
+-vigen: 26/12/2022
+-tipo: MIXTA
+-solic: Orange Brand Services Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: orange
+-certi: 481547
+-clase: 44
+-anoexp: 13 100334 44
+-numpub: 57
+-vigen: 26/12/2022
+-tipo: MIXTA
+-solic: Orange Brand Services Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: ViskoTeepak
+-certi: 481548
+-clase: 18
+-anoexp: 13 137781
+-numpub: 58
+-vigen: 07/05/2018
+-tipo: MIXTA
+-solic: Visko Teepak Belgium NV
+-domic:   BELGICA
+-----------------------------
+-denomi: ORANGE
+-certi: 481549
+-clase: 9
+-anoexp: 13 100335 9
+-numpub: 59
+-vigen: 26/12/2022
+-tipo: MIXTA
+-solic: Orange Brand Services Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: ORANGE
+-certi: 481549
+-clase: 42
+-anoexp: 13 100335 42
+-numpub: 59
+-vigen: 26/12/2022
+-tipo: MIXTA
+-solic: Orange Brand Services Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: ORANGE
+-certi: 481549
+-clase: 44
+-anoexp: 13 100335 44
+-numpub: 59
+-vigen: 26/12/2022
+-tipo: MIXTA
+-solic: Orange Brand Services Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: FYREWASH
+-certi: 481550
+-clase: 3
+-anoexp: 13 100348 3
+-numpub: 60
+-vigen: 08/02/2023
+-tipo: MIXTA
+-solic: Rochem Technical Services Holding AG
+-domic:   SUIZA
+-----------------------------
+-denomi: FYREWASH
+-certi: 481550
+-clase: 37
+-anoexp: 13 100348 37
+-numpub: 60
+-vigen: 08/02/2023
+-tipo: MIXTA
+-solic: Rochem Technical Services Holding AG
+-domic:   SUIZA
+-----------------------------
+-denomi: LA BASE PRO PORE KILLER
+-certi: 481551
+-clase: 3
+-anoexp: 13 100349
+-numpub: 61
+-vigen: 22/02/2023
+-tipo: MIXTA
+-solic: LANCOME PARFUMS ET BEAUTE AND CIE
+-domic:   FRANCIA
+-----------------------------
+-denomi: LA BASE PRO HYDRA GLOW
+-certi: 481552
+-clase: 3
+-anoexp: 13 100350
+-numpub: 62
+-vigen: 22/02/2023
+-tipo: MIXTA
+-solic: LANCOME PARFUMS ET BEAUTE AND CIE
+-domic:   FRANCIA
+-----------------------------
+-denomi: Guess?
+-certi: 481553
+-clase: 3
+-anoexp: 13 100352 3
+-numpub: 63
+-vigen: 01/11/2022
+-tipo: MIXTA
+-solic: Guess? IP Holder L.P.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: Guess?
+-certi: 481553
+-clase: 9
+-anoexp: 13 100352 9
+-numpub: 63
+-vigen: 01/11/2022
+-tipo: MIXTA
+-solic: Guess? IP Holder L.P.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: Guess?
+-certi: 481553
+-clase: 14
+-anoexp: 13 100352 14
+-numpub: 63
+-vigen: 01/11/2022
+-tipo: MIXTA
+-solic: Guess? IP Holder L.P.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: Guess?
+-certi: 481553
+-clase: 16
+-anoexp: 13 100352 16
+-numpub: 63
+-vigen: 01/11/2022
+-tipo: MIXTA
+-solic: Guess? IP Holder L.P.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: Guess?
+-certi: 481553
+-clase: 18
+-anoexp: 13 100352 18
+-numpub: 63
+-vigen: 01/11/2022
+-tipo: MIXTA
+-solic: Guess? IP Holder L.P.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: Guess?
+-certi: 481553
+-clase: 25
+-anoexp: 13 100352 25
+-numpub: 63
+-vigen: 01/11/2022
+-tipo: MIXTA
+-solic: Guess? IP Holder L.P.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: Guess?
+-certi: 481554
+-clase: 3
+-anoexp: 13 100353 3
+-numpub: 64
+-vigen: 01/11/2022
+-tipo: MIXTA
+-solic: Guess? IP Holder L.P.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: Guess?
+-certi: 481554
+-clase: 9
+-anoexp: 13 100353 9
+-numpub: 64
+-vigen: 01/11/2022
+-tipo: MIXTA
+-solic: Guess? IP Holder L.P.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: Guess?
+-certi: 481554
+-clase: 14
+-anoexp: 13 100353 14
+-numpub: 64
+-vigen: 01/11/2022
+-tipo: MIXTA
+-solic: Guess? IP Holder L.P.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: Guess?
+-certi: 481554
+-clase: 16
+-anoexp: 13 100353 16
+-numpub: 64
+-vigen: 01/11/2022
+-tipo: MIXTA
+-solic: Guess? IP Holder L.P.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: Guess?
+-certi: 481554
+-clase: 18
+-anoexp: 13 100353 18
+-numpub: 64
+-vigen: 01/11/2022
+-tipo: MIXTA
+-solic: Guess? IP Holder L.P.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: Guess?
+-certi: 481554
+-clase: 25
+-anoexp: 13 100353 25
+-numpub: 64
+-vigen: 01/11/2022
+-tipo: MIXTA
+-solic: Guess? IP Holder L.P.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: NUTRICERT
+-certi: 481555
+-clase: 42
+-anoexp: 13 105880
+-numpub: 65
+-vigen: 27/02/2023
+-tipo: MIXTA
+-solic: Alticor Inc.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: CAHORS
+-certi: 481556
+-clase: 9
+-anoexp: 13 105881 9
+-numpub: 66
+-vigen: 15/01/2023
+-tipo: MIXTA
+-solic: GROUPE CAHORS
+-domic:  FRANCIA
+-----------------------------
+-denomi: CAHORS
+-certi: 481556
+-clase: 11
+-anoexp: 13 105881 11
+-numpub: 66
+-vigen: 15/01/2023
+-tipo: MIXTA
+-solic: GROUPE CAHORS
+-domic:  FRANCIA
+-----------------------------
+-denomi: CAHORS
+-certi: 481556
+-clase: 38
+-anoexp: 13 105881 38
+-numpub: 66
+-vigen: 15/01/2023
+-tipo: MIXTA
+-solic: GROUPE CAHORS
+-domic:  FRANCIA
+-----------------------------
+-certi: 481557
+-clase: 9
+-anoexp: 13 105883
+-numpub: 67
+-vigen: 04/02/2023
+-tipo: FIGURATIVA
+-solic: Otter Products, LLC
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: AMCX
+-certi: 481558
+-clase: 5
+-anoexp: 13 105886
+-numpub: 68
+-vigen: 26/02/2023
+-tipo: MIXTA
+-solic: NOVARTIS AG
+-domic:   SUIZA
+-----------------------------
+-denomi: ORIFLAME LOVELY BETTY
+-certi: 481559
+-clase: 3
+-anoexp: 13 105890
+-numpub: 69
+-vigen: 31/01/2023
+-tipo: MIXTA
+-solic: ORIFLAME COSMETICS S.A.
+-domic:   LUXEMBURGO
+-----------------------------
+-denomi: SocketKAP
+-certi: 481560
+-clase: 10
+-anoexp: 13 105892
+-numpub: 70
+-vigen: 05/02/2023
+-tipo: MIXTA
+-solic: Luitpold Pharmaceuticals, Inc.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: SIL-TEC
+-certi: 481561
+-clase: 12
+-anoexp: 13 105895
+-numpub: 71
+-vigen: 25/02/2023
+-tipo: MIXTA
+-solic: Shimano Inc.
+-domic:   JAPON
+-----------------------------
+-denomi: NANSHAN
+-certi: 481562
+-clase: 6
+-anoexp: 13 105899
+-numpub: 72
+-vigen: 20/03/2023
+-tipo: MIXTA
+-solic: Shandong Nanshan Aluminium Co., Ltd.
+-domic:   REPUBLICA POPULAR DE CHINA
+-----------------------------
+-denomi: Ayuda en Acción
+-certi: 481563
+-clase: 41
+-anoexp: 13 105900
+-numpub: 73
+-vigen: 21/03/2023
+-tipo: MIXTA
+-solic: FUNDACIÓN AYUDA EN ACCIÓN
+-domic:   ESPAÑA
+-----------------------------
+-denomi: INMUNOTEK alergia e inmunología
+-certi: 481564
+-clase: 42
+-anoexp: 13 105901
+-numpub: 74
+-vigen: 18/03/2023
+-tipo: MIXTA
+-solic: INMUNOTEK, SL
+-domic:   ESPAÑA
+-----------------------------
+-denomi: CRITEO
+-certi: 481565
+-clase: 9
+-anoexp: 13 105902 9
+-numpub: 75
+-vigen: 08/01/2023
+-tipo: MIXTA
+-solic: CRITEO
+-domic:   FRANCIA
+-----------------------------
+-denomi: CRITEO
+-certi: 481565
+-clase: 35
+-anoexp: 13 105902 35
+-numpub: 75
+-vigen: 08/01/2023
+-tipo: MIXTA
+-solic: CRITEO
+-domic:   FRANCIA
+-----------------------------
+-denomi: CRITEO
+-certi: 481565
+-clase: 38
+-anoexp: 13 105902 38
+-numpub: 75
+-vigen: 08/01/2023
+-tipo: MIXTA
+-solic: CRITEO
+-domic:   FRANCIA
+-----------------------------
+-denomi: CRITEO
+-certi: 481565
+-clase: 42
+-anoexp: 13 105902 42
+-numpub: 75
+-vigen: 08/01/2023
+-tipo: MIXTA
+-solic: CRITEO
+-domic:   FRANCIA
+-----------------------------
+-denomi: blachere illumination
+-certi: 481566
+-clase: 11
+-anoexp: 13 105903
+-numpub: 76
+-vigen: 15/02/2023
+-tipo: MIXTA
+-solic: BLACHERE ILLUMINATION
+-domic:   FRANCIA
+-----------------------------
+-denomi: glass4you.com
+-certi: 481567
+-clase: 21
+-anoexp: 13 105905
+-numpub: 77
+-vigen: 21/12/2022
+-tipo: MIXTA
+-solic: PASABAHÇE CAM SANAYI VE TICARET ANONIM SIRKETI
+-domic:   TURQUIA
+-----------------------------
+-denomi: Chanjet
+-certi: 481568
+-clase: 9
+-anoexp: 13 105906 9
+-numpub: 78
+-vigen: 20/03/2023
+-tipo: MIXTA
+-solic: Chanjet Information Technology Company Limited
+-domic:   REPUBLICA POPULAR DE CHINA
+-----------------------------
+-denomi: Chanjet
+-certi: 481568
+-clase: 35
+-anoexp: 13 105906 35
+-numpub: 78
+-vigen: 20/03/2023
+-tipo: MIXTA
+-solic: Chanjet Information Technology Company Limited
+-domic:   REPUBLICA POPULAR DE CHINA
+-----------------------------
+-denomi: Chanjet
+-certi: 481568
+-clase: 42
+-anoexp: 13 105906 42
+-numpub: 78
+-vigen: 20/03/2023
+-tipo: MIXTA
+-solic: Chanjet Information Technology Company Limited
+-domic:   REPUBLICA POPULAR DE CHINA
+-----------------------------
+-denomi: GRIP GLOBAL RESPIRATORY INFECTION PARTNERSHIP
+-certi: 481569
+-clase: 5
+-anoexp: 13 105908 5
+-numpub: 79
+-vigen: 18/02/2023
+-tipo: MIXTA
+-solic: Reckitt & Colman (Overseas) Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: GRIP GLOBAL RESPIRATORY INFECTION PARTNERSHIP
+-certi: 481569
+-clase: 10
+-anoexp: 13 105908 10
+-numpub: 79
+-vigen: 18/02/2023
+-tipo: MIXTA
+-solic: Reckitt & Colman (Overseas) Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: GRIP GLOBAL RESPIRATORY INFECTION PARTNERSHIP
+-certi: 481569
+-clase: 16
+-anoexp: 13 105908 16
+-numpub: 79
+-vigen: 18/02/2023
+-tipo: MIXTA
+-solic: Reckitt & Colman (Overseas) Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: GRIP GLOBAL RESPIRATORY INFECTION PARTNERSHIP
+-certi: 481569
+-clase: 41
+-anoexp: 13 105908 41
+-numpub: 79
+-vigen: 18/02/2023
+-tipo: MIXTA
+-solic: Reckitt & Colman (Overseas) Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: GRIP GLOBAL RESPIRATORY INFECTION PARTNERSHIP
+-certi: 481569
+-clase: 42
+-anoexp: 13 105908 42
+-numpub: 79
+-vigen: 18/02/2023
+-tipo: MIXTA
+-solic: Reckitt & Colman (Overseas) Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: GRIP GLOBAL RESPIRATORY INFECTION PARTNERSHIP
+-certi: 481569
+-clase: 44
+-anoexp: 13 105908 44
+-numpub: 79
+-vigen: 18/02/2023
+-tipo: MIXTA
+-solic: Reckitt & Colman (Overseas) Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: CODECADEMY
+-certi: 481570
+-clase: 41
+-anoexp: 13 105909
+-numpub: 80
+-vigen: 06/03/2023
+-tipo: MIXTA
+-solic: Ryzac, Inc.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: AUX
+-certi: 481571
+-clase: 9
+-anoexp: 13 105911
+-numpub: 81
+-vigen: 20/03/2023
+-tipo: MIXTA
+-solic: AUX GROUP CO., LTD.
+-domic:   REPUBLICA POPULAR DE CHINA
+-----------------------------
+-denomi: SENSOR COOL
+-certi: 481572
+-clase: 28
+-anoexp: 13 105912
+-numpub: 82
+-vigen: 25/03/2023
+-tipo: MIXTA
+-solic: Karsten Manufacturing Corporation
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: CLINIWEAVE
+-certi: 481573
+-clase: 24
+-anoexp: 13 105913
+-numpub: 83
+-vigen: 25/03/2023
+-tipo: MIXTA
+-solic: INTELLIGENT FABRIC TECHNOLOGIES NORTH AMERICA, INC.
+-domic:   CANADA
+-----------------------------
+-denomi: SENSOR COOL
+-certi: 481574
+-clase: 25
+-anoexp: 13 105914
+-numpub: 84
+-vigen: 25/03/2023
+-tipo: MIXTA
+-solic: Karsten Manufacturing Corporation
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: Total Performance
+-certi: 481575
+-clase: 12
+-anoexp: 13 105915 12
+-numpub: 85
+-vigen: 24/01/2023
+-tipo: MIXTA
+-solic: COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN
+-domic:   FRANCIA
+-----------------------------
+-denomi: Total Performance
+-certi: 481575
+-clase: 35
+-anoexp: 13 105915 35
+-numpub: 85
+-vigen: 24/01/2023
+-tipo: MIXTA
+-solic: COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN
+-domic:   FRANCIA
+-----------------------------
+-denomi: Total Performance
+-certi: 481575
+-clase: 37
+-anoexp: 13 105915 37
+-numpub: 85
+-vigen: 24/01/2023
+-tipo: MIXTA
+-solic: COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN
+-domic:   FRANCIA
+-----------------------------
+-denomi: Total Performance
+-certi: 481575
+-clase: 39
+-anoexp: 13 105915 39
+-numpub: 85
+-vigen: 24/01/2023
+-tipo: MIXTA
+-solic: COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN
+-domic:   FRANCIA
+-----------------------------
+-denomi: Total Performance
+-certi: 481575
+-clase: 42
+-anoexp: 13 105915 42
+-numpub: 85
+-vigen: 24/01/2023
+-tipo: MIXTA
+-solic: COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN
+-domic:   FRANCIA
+-----------------------------
+-denomi: Total Performance
+-certi: 481575
+-clase: 12
+-anoexp: 13 105915 12
+-numpub: 86
+-vigen: 24/01/2023
+-tipo: MIXTA
+-solic: COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN
+-domic:   FRANCIA
+-----------------------------
+-denomi: Total Performance
+-certi: 481575
+-clase: 35
+-anoexp: 13 105915 35
+-numpub: 86
+-vigen: 24/01/2023
+-tipo: MIXTA
+-solic: COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN
+-domic:   FRANCIA
+-----------------------------
+-denomi: Total Performance
+-certi: 481575
+-clase: 37
+-anoexp: 13 105915 37
+-numpub: 86
+-vigen: 24/01/2023
+-tipo: MIXTA
+-solic: COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN
+-domic:   FRANCIA
+-----------------------------
+-denomi: Total Performance
+-certi: 481575
+-clase: 39
+-anoexp: 13 105915 39
+-numpub: 86
+-vigen: 24/01/2023
+-tipo: MIXTA
+-solic: COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN
+-domic:   FRANCIA
+-----------------------------
+-denomi: Total Performance
+-certi: 481575
+-clase: 42
+-anoexp: 13 105915 42
+-numpub: 86
+-vigen: 24/01/2023
+-tipo: MIXTA
+-solic: COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN
+-domic:   FRANCIA
+-----------------------------
+-denomi: ZTE
+-certi: 481576
+-clase: 38
+-anoexp: 13 105916
+-numpub: 87
+-vigen: 25/01/2023
+-tipo: MIXTA
+-solic: ZTE Corporation
+-domic:   REPUBLICA POPULAR DE CHINA
+-----------------------------
+-denomi: JFEBEAR
+-certi: 481577
+-clase: 6
+-anoexp: 13 105925
+-numpub: 88
+-vigen: 22/07/2015
+-tipo: MIXTA
+-solic: JFE HOLDINGS KABUSHIKI KAISHA
+-domic:   JAPON
+-----------------------------
+-denomi: INCRUSE
+-certi: 481578
+-clase: 5
+-anoexp: 13 105928
+-numpub: 89
+-vigen: 23/10/2017
+-tipo: MIXTA
+-solic: Glaxo Group Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: KLETTERWERKS
+-certi: 481579
+-clase: 18
+-anoexp: 13 105935 18
+-numpub: 90
+-vigen: 12/07/2022
+-tipo: MIXTA
+-solic: Mystery Ranch, Ltd.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: KLETTERWERKS
+-certi: 481579
+-clase: 25
+-anoexp: 13 105935 25
+-numpub: 90
+-vigen: 12/07/2022
+-tipo: MIXTA
+-solic: Mystery Ranch, Ltd.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: XVCAM
+-certi: 481580
+-clase: 9
+-anoexp: 13 137715
+-numpub: 91
+-vigen: 08/04/2023
+-tipo: MIXTA
+-solic: Sony Corporation
+-domic:   JAPON
+-----------------------------
+-denomi: GUSTAZOS
+-certi: 481581
+-clase: 35
+-anoexp: 13 137717
+-numpub: 92
+-vigen: 26/03/2023
+-tipo: MIXTA
+-solic: Social Media LLC
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: GOLDWAY
+-certi: 481582
+-clase: 12
+-anoexp: 13 137720
+-numpub: 93
+-vigen: 22/02/2023
+-tipo: MIXTA
+-solic: DONGYING GOLDWAY TYRE FACTORY
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: PKm 60
+-certi: 481583
+-clase: 7
+-anoexp: 13 137723
+-numpub: 94
+-vigen: 27/02/2023
+-tipo: MIXTA
+-solic: PEDROLLO S.P.A.
+-domic:   SAN BONIFACIO, VERONA, VENETO, ITALIA
+-----------------------------
+-denomi: MIGHTY PODS
+-certi: 481584
+-clase: 1
+-anoexp: 13 137724
+-numpub: 95
+-vigen: 12/04/2023
+-tipo: MIXTA
+-solic: HaloSource, Inc.
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: VIRTUAL CAR
+-certi: 481585
+-clase: 39
+-anoexp: 13 137725
+-numpub: 96
+-vigen: 16/04/2023
+-tipo: MIXTA
+-solic: ENTERPRISE HOLDINGS, INC.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: WALKMAN
+-certi: 481586
+-clase: 9
+-anoexp: 13 137726
+-numpub: 97
+-vigen: 08/04/2023
+-tipo: MIXTA
+-solic: Sony Corporation
+-domic:   JAPON
+-----------------------------
+-denomi: XAVC S
+-certi: 481587
+-clase: 9
+-anoexp: 13 137727
+-numpub: 98
+-vigen: 08/04/2023
+-tipo: MIXTA
+-solic: Sony Corporation
+-domic:   JAPON
+-----------------------------
+-denomi: FEEDMAX
+-certi: 481588
+-clase: 7
+-anoexp: 13 137729
+-numpub: 99
+-vigen: 30/04/2023
+-tipo: MIXTA
+-solic: ANDRITZ FEED & BIOFUEL A/S
+-domic:   DINAMARCA
+-----------------------------
+-denomi: GIRANDOLA
+-certi: 481589
+-clase: 25
+-anoexp: 13 137731
+-numpub: 100
+-vigen: 19/04/2023
+-tipo: MIXTA
+-solic: Pumplink Ltd T/A GIRANDOLA
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: TRULIGN
+-certi: 481590
+-clase: 10
+-anoexp: 13 137746
+-numpub: 101
+-vigen: 18/04/2023
+-tipo: MIXTA
+-solic: BAUSCH & LOMB INCORPORATED
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: CABANA SUN
+-certi: 481591
+-clase: 3
+-anoexp: 13 137756
+-numpub: 102
+-vigen: 06/03/2023
+-tipo: MIXTA
+-solic: LINCO CARE LIMITED
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: DIRTY GRANNY
+-certi: 481592
+-clase: 33
+-anoexp: 12 212010
+-numpub: 103
+-vigen: 19/09/2022
+-tipo: MIXTA
+-solic: MBBC Pty Limited
+-domic:   AUSTRALIA
+-----------------------------
+-denomi: MCALISTER´S DELI
+-certi: 481593
+-clase: 43
+-anoexp: 12 216591
+-numpub: 104
+-vigen: 28/09/2022
+-tipo: MIXTA
+-solic: MCALISTER´S CORPORATION
+-domic:  ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-certi: 481594
+-clase: 33
+-anoexp: 12 221438
+-numpub: 105
+-vigen: 12/10/2022
+-tipo: FIGURATIVA
+-solic: COINTREAU
+-domic:   FRANCIA
+-----------------------------
+-denomi: GALDISTO
+-certi: 481595
+-clase: 5
+-anoexp: 12 196627
+-numpub: 106
+-vigen: 02/10/2022
+-tipo: MIXTA
+-solic: AstraZeneca AB
+-domic:  SUECIA
+-----------------------------
+-certi: 481596
+-clase: 14
+-anoexp: 12 226879
+-numpub: 107
+-vigen: 29/10/2022
+-tipo: FIGURATIVA
+-solic: Valcambi SA
+-domic:   SUIZA
+-----------------------------
+-denomi: CONDE DE VIMIOSO
+-certi: 481597
+-clase: 33
+-anoexp: 12 233973
+-numpub: 108
+-vigen: 16/11/2022
+-tipo: MIXTA
+-solic: J. PORTUGAL RAMOS VINHOS, S.A.
+-domic:   PORTUGAL
+-----------------------------
+-denomi: EUROBOOR
+-certi: 481598
+-clase: 7
+-anoexp: 12 226889 7
+-numpub: 109
+-vigen: 18/10/2022
+-tipo: MIXTA
+-solic: Euroboor B.V.
+-domic:   PAISES BAJOS
+-----------------------------
+-denomi: EUROBOOR
+-certi: 481598
+-clase: 8
+-anoexp: 12 226889 8
+-numpub: 109
+-vigen: 18/10/2022
+-tipo: MIXTA
+-solic: Euroboor B.V.
+-domic:   PAISES BAJOS
+-----------------------------
+-denomi: EUROBOOR
+-certi: 481598
+-clase: 9
+-anoexp: 12 226889 9
+-numpub: 109
+-vigen: 18/10/2022
+-tipo: MIXTA
+-solic: Euroboor B.V.
+-domic:   PAISES BAJOS
+-----------------------------
+-denomi: DOMINGO
+-certi: 481599
+-clase: 34
+-anoexp: 12 226902
+-numpub: 110
+-vigen: 08/12/2016
+-tipo: MIXTA
+-solic: GRYSON, naamloze vennootschap
+-domic:   BELGICA
+-----------------------------
+-denomi: GLASFORD INTERNATIONAL
+-certi: 481600
+-clase: 35
+-anoexp: 12 230820 35
+-numpub: 111
+-vigen: 08/07/2019
+-tipo: MIXTA
+-solic: Glasford International Holding B.V.
+-domic:   PAISES BAJOS
+-----------------------------
+-denomi: GLASFORD INTERNATIONAL
+-certi: 481600
+-clase: 41
+-anoexp: 12 230820 41
+-numpub: 111
+-vigen: 08/07/2019
+-tipo: MIXTA
+-solic: Glasford International Holding B.V.
+-domic:   PAISES BAJOS
+-----------------------------
+-denomi: GLASFORD INTERNATIONAL
+-certi: 481600
+-clase: 42
+-anoexp: 12 230820 42
+-numpub: 111
+-vigen: 08/07/2019
+-tipo: MIXTA
+-solic: Glasford International Holding B.V.
+-domic:   PAISES BAJOS
+-----------------------------
+-denomi: LOG5
+-certi: 481601
+-clase: 11
+-anoexp: 13 100363 11
+-numpub: 112
+-vigen: 21/12/2022
+-tipo: MIXTA
+-solic: Royal Duyvis Wiener B.V.
+-domic:  PAISES BAJOS
+-----------------------------
+-denomi: LOG5
+-certi: 481601
+-clase: 40
+-anoexp: 13 100363 40
+-numpub: 112
+-vigen: 21/12/2022
+-tipo: MIXTA
+-solic: Royal Duyvis Wiener B.V.
+-domic:  PAISES BAJOS
+-----------------------------
+-denomi: LOG5
+-certi: 481601
+-clase: 42
+-anoexp: 13 100363 42
+-numpub: 112
+-vigen: 21/12/2022
+-tipo: MIXTA
+-solic: Royal Duyvis Wiener B.V.
+-domic:  PAISES BAJOS
+-----------------------------
+-certi: 481602
+-clase: 9
+-anoexp: 13 100364
+-numpub: 113
+-vigen: 22/01/2023
+-tipo: FIGURATIVA
+-solic: DOLCE & GABBANA S.r.l.
+-domic:  ITALIA
+-----------------------------
+-certi: 481603
+-clase: 9
+-anoexp: 13 100365
+-numpub: 114
+-vigen: 22/01/2023
+-tipo: FIGURATIVA
+-solic: DOLCE & GABBANA S.r.l.
+-domic:  ITALIA
+-----------------------------
+-certi: 481604
+-clase: 12
+-anoexp: 13 100366
+-numpub: 115
+-vigen: 27/02/2023
+-tipo: FIGURATIVA
+-solic: COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN
+-domic:  FRANCIA
+-----------------------------
+-certi: 481605
+-clase: 12
+-anoexp: 13 100367
+-numpub: 116
+-vigen: 27/02/2023
+-tipo: FIGURATIVA
+-solic: COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN
+-domic:  FRANCIA
+-----------------------------
+-certi: 481606
+-clase: 12
+-anoexp: 13 100368
+-numpub: 117
+-vigen: 27/02/2023
+-tipo: FIGURATIVA
+-solic: COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN
+-domic:  FRANCIA
+-----------------------------
+-certi: 481607
+-clase: 12
+-anoexp: 13 100369
+-numpub: 118
+-vigen: 27/02/2023
+-tipo: FIGURATIVA
+-solic: COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN
+-domic:   FRANCIA
+-----------------------------
+-denomi: K
+-certi: 481608
+-clase: 28
+-anoexp: 13 100370 28
+-numpub: 119
+-vigen: 08/02/2023
+-tipo: MIXTA
+-solic: SOREMARTEC SA
+-domic:   BELGICA
+-----------------------------
+-denomi: K
+-certi: 481608
+-clase: 30
+-anoexp: 13 100370 30
+-numpub: 119
+-vigen: 08/02/2023
+-tipo: MIXTA
+-solic: SOREMARTEC SA
+-domic:   BELGICA
+-----------------------------
+-denomi: BRAINPOP
+-certi: 481609
+-clase: 42
+-anoexp: 13 100378
+-numpub: 120
+-vigen: 23/11/2014
+-tipo: MIXTA
+-solic: FWD Media, Inc.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: AGODA
+-certi: 481610
+-clase: 39
+-anoexp: 13 100379 39
+-numpub: 121
+-vigen: 28/02/2015
+-tipo: MIXTA
+-solic: AGIP LLC
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: AGODA
+-certi: 481610
+-clase: 43
+-anoexp: 13 100379 43
+-numpub: 121
+-vigen: 28/02/2015
+-tipo: MIXTA
+-solic: AGIP LLC
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: AFARIA
+-certi: 481611
+-clase: 9
+-anoexp: 13 100381
+-numpub: 122
+-vigen: 22/09/2016
+-tipo: MIXTA
+-solic: IANYWHERE SOLUTIONS, INC.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: FACTOR 4 PROCESS
+-certi: 481612
+-clase: 36
+-anoexp: 13 100382
+-numpub: 123
+-vigen: 11/12/2016
+-tipo: MIXTA
+-solic: INVESTEC ASSET MANAGEMENT LIMITED
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: IMCD
+-certi: 481613
+-clase: 35
+-anoexp: 13 100383
+-numpub: 124
+-vigen: 18/01/2017
+-tipo: MIXTA
+-solic: IMCD Group B.V.
+-domic:   PAISES BAJOS
+-----------------------------
+-denomi: IMCD
+-certi: 481614
+-clase: 35
+-anoexp: 13 100384
+-numpub: 125
+-vigen: 18/01/2017
+-tipo: MIXTA
+-solic: IMCD Group B.V.
+-domic:   PAISES BAJOS
+-----------------------------
+-denomi: MESSKO
+-certi: 481615
+-clase: 9
+-anoexp: 13 100386 9
+-numpub: 126
+-vigen: 10/12/2019
+-tipo: MIXTA
+-solic: MASCHINENFABRIK REINHAUSEN GMBH
+-domic:   ALEMANIA
+-----------------------------
+-denomi: MESSKO
+-certi: 481615
+-clase: 37
+-anoexp: 13 100386 37
+-numpub: 126
+-vigen: 10/12/2019
+-tipo: MIXTA
+-solic: MASCHINENFABRIK REINHAUSEN GMBH
+-domic:   ALEMANIA
+-----------------------------
+-denomi: MESSKO
+-certi: 481615
+-clase: 42
+-anoexp: 13 100386 42
+-numpub: 126
+-vigen: 10/12/2019
+-tipo: MIXTA
+-solic: MASCHINENFABRIK REINHAUSEN GMBH
+-domic:   ALEMANIA
+-----------------------------
+-denomi: JFETIGER
+-certi: 481616
+-clase: 6
+-anoexp: 13 100387
+-numpub: 127
+-vigen: 09/09/2020
+-tipo: MIXTA
+-solic: JFE HOLDINGS KABUSHIKI KAISHA
+-domic:   JAPON
+-----------------------------
+-denomi: MAGIC FLOWERPOT
+-certi: 481617
+-clase: 21
+-anoexp: 13 100388
+-numpub: 128
+-vigen: 20/10/2020
+-tipo: MIXTA
+-solic: Shaun PULFREY
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: Texworld
+-certi: 481618
+-clase: 35
+-anoexp: 13 100389 35
+-numpub: 129
+-vigen: 26/07/2021
+-tipo: MIXTA
+-solic: Messe Frankfurt Exhibition GmbH
+-domic:   ALEMANIA
+-----------------------------
+-denomi: Texworld
+-certi: 481618
+-clase: 41
+-anoexp: 13 100389 41
+-numpub: 129
+-vigen: 26/07/2021
+-tipo: MIXTA
+-solic: Messe Frankfurt Exhibition GmbH
+-domic:   ALEMANIA
+-----------------------------
+-denomi: JFELION
+-certi: 481619
+-clase: 6
+-anoexp: 13 100390
+-numpub: 130
+-vigen: 12/10/2021
+-tipo: MIXTA
+-solic: JFE HOLDINGS KABUSHIKI KAISHA
+-domic:   JAPON
+-----------------------------
+-denomi: PRP EBV
+-certi: 481620
+-clase: 1
+-anoexp: 13 100392
+-numpub: 131
+-vigen: 14/08/2022
+-tipo: MIXTA
+-solic: PRP HOLDING
+-domic:   FRANCIA
+-----------------------------
+-denomi: so fashion so chic
+-certi: 481621
+-clase: 9
+-anoexp: 13 51944 9
+-numpub: 132
+-vigen: 12/12/2022
+-tipo: MIXTA
+-solic: EDITIONS PLAY BAC
+-domic:   PARIS, FRANCIA
+-----------------------------
+-denomi: so fashion so chic
+-certi: 481621
+-clase: 16
+-anoexp: 13 51944 16
+-numpub: 132
+-vigen: 12/12/2022
+-tipo: MIXTA
+-solic: EDITIONS PLAY BAC
+-domic:   PARIS, FRANCIA
+-----------------------------
+-denomi: so fashion so chic
+-certi: 481621
+-clase: 28
+-anoexp: 13 51944 28
+-numpub: 132
+-vigen: 12/12/2022
+-tipo: MIXTA
+-solic: EDITIONS PLAY BAC
+-domic:   PARIS, FRANCIA
+-----------------------------
+-denomi: so fashion so chic
+-certi: 481621
+-clase: 41
+-anoexp: 13 51944 41
+-numpub: 132
+-vigen: 12/12/2022
+-tipo: MIXTA
+-solic: EDITIONS PLAY BAC
+-domic:   PARIS, FRANCIA
+-----------------------------
+-denomi: AQUA SPLASH
+-certi: 481622
+-clase: 21
+-anoexp: 13 100393
+-numpub: 133
+-vigen: 31/08/2022
+-tipo: MIXTA
+-solic: Shaun PULFREY
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: SQ3
+-certi: 481623
+-clase: 12
+-anoexp: 13 7924 12
+-numpub: 134
+-vigen: 30/06/2019
+-tipo: MIXTA
+-solic: AUDI AG
+-domic:   ALEMANIA
+-----------------------------
+-denomi: SQ3
+-certi: 481623
+-clase: 27
+-anoexp: 13 7924 27
+-numpub: 134
+-vigen: 30/06/2019
+-tipo: MIXTA
+-solic: AUDI AG
+-domic:   ALEMANIA
+-----------------------------
+-denomi: SQ3
+-certi: 481623
+-clase: 28
+-anoexp: 13 7924 28
+-numpub: 134
+-vigen: 30/06/2019
+-tipo: MIXTA
+-solic: AUDI AG
+-domic:   ALEMANIA
+-----------------------------
+-denomi: NEW LOOK NL
+-certi: 481624
+-clase: 14
+-anoexp: 13 100394 14
+-numpub: 135
+-vigen: 24/07/2022
+-tipo: MIXTA
+-solic: New Look Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: NEW LOOK NL
+-certi: 481624
+-clase: 18
+-anoexp: 13 100394 18
+-numpub: 135
+-vigen: 24/07/2022
+-tipo: MIXTA
+-solic: New Look Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: NEW LOOK NL
+-certi: 481624
+-clase: 25
+-anoexp: 13 100394 25
+-numpub: 135
+-vigen: 24/07/2022
+-tipo: MIXTA
+-solic: New Look Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: NEW LOOK NL
+-certi: 481624
+-clase: 35
+-anoexp: 13 100394 35
+-numpub: 135
+-vigen: 24/07/2022
+-tipo: MIXTA
+-solic: New Look Limited
+-domic:   REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: liper
+-certi: 481625
+-clase: 9
+-anoexp: 13 105863
+-numpub: 136
+-vigen: 09/01/2023
+-tipo: MIXTA
+-solic: ZHEJIANG AOSRAN LIGHTING ELECTRICAL EQUIPMENT CO., LTD.
+-domic:   REPUBLICA POPULAR DE CHINA
+-----------------------------
+-denomi: IPONE
+-certi: 481626
+-clase: 1
+-anoexp: 13 105864 1
+-numpub: 137
+-vigen: 14/01/2023
+-tipo: MIXTA
+-solic: IPONE
+-domic:   FRANCIA
+-----------------------------
+-denomi: IPONE
+-certi: 481626
+-clase: 3
+-anoexp: 13 105864 3
+-numpub: 137
+-vigen: 14/01/2023
+-tipo: MIXTA
+-solic: IPONE
+-domic:   FRANCIA
+-----------------------------
+-denomi: IPONE
+-certi: 481626
+-clase: 4
+-anoexp: 13 105864 4
+-numpub: 137
+-vigen: 14/01/2023
+-tipo: MIXTA
+-solic: IPONE
+-domic:   FRANCIA
+-----------------------------
+-denomi: ORIFLAME VIVACITY
+-certi: 481627
+-clase: 3
+-anoexp: 13 105865
+-numpub: 138
+-vigen: 15/01/2023
+-tipo: MIXTA
+-solic: ORIFLAME COSMETICS S.A.
+-domic:   LUXEMBURGO
+-----------------------------
+-denomi: Oh! White
+-certi: 481628
+-clase: 3
+-anoexp: 13 105866 3
+-numpub: 139
+-vigen: 01/03/2023
+-tipo: MIXTA
+-solic: OH WHITE COSMETICS S.L.,
+-domic:   ESPAÑA
+-----------------------------
+-denomi: Oh! White
+-certi: 481628
+-clase: 10
+-anoexp: 13 105866 10
+-numpub: 139
+-vigen: 01/03/2023
+-tipo: MIXTA
+-solic: OH WHITE COSMETICS S.L.,
+-domic:   ESPAÑA
+-----------------------------
+-denomi: Oh! White
+-certi: 481628
+-clase: 35
+-anoexp: 13 105866 35
+-numpub: 139
+-vigen: 01/03/2023
+-tipo: MIXTA
+-solic: OH WHITE COSMETICS S.L.,
+-domic:   ESPAÑA
+-----------------------------
+-denomi: CLASSE 100 BTICINO
+-certi: 481629
+-clase: 9
+-anoexp: 13 105867
+-numpub: 140
+-vigen: 19/02/2023
+-tipo: MIXTA
+-solic: BTICINO S.p.A.
+-domic:   ITALIA
+-----------------------------
+-denomi: SAFETOUCH
+-certi: 481630
+-clase: 10
+-anoexp: 13 105869
+-numpub: 141
+-vigen: 04/02/2023
+-tipo: MIXTA
+-solic: NIPRO CORPORATION
+-domic:   JAPON
+-----------------------------
+-denomi: TPL
+-certi: 481631
+-clase: 9
+-anoexp: 13 105870 9
+-numpub: 142
+-vigen: 03/12/2022
+-tipo: MIXTA
+-solic: T-Platforms
+-domic:   FEDERACION RUSA
+-----------------------------
+-denomi: TPL
+-certi: 481631
+-clase: 11
+-anoexp: 13 105870 11
+-numpub: 142
+-vigen: 03/12/2022
+-tipo: MIXTA
+-solic: T-Platforms
+-domic:   FEDERACION RUSA
+-----------------------------
+-denomi: TPL
+-certi: 481631
+-clase: 35
+-anoexp: 13 105870 35
+-numpub: 142
+-vigen: 03/12/2022
+-tipo: MIXTA
+-solic: T-Platforms
+-domic:   FEDERACION RUSA
+-----------------------------
+-denomi: TPL
+-certi: 481631
+-clase: 37
+-anoexp: 13 105870 37
+-numpub: 142
+-vigen: 03/12/2022
+-tipo: MIXTA
+-solic: T-Platforms
+-domic:   FEDERACION RUSA
+-----------------------------
+-denomi: TPL
+-certi: 481631
+-clase: 38
+-anoexp: 13 105870 38
+-numpub: 142
+-vigen: 03/12/2022
+-tipo: MIXTA
+-solic: T-Platforms
+-domic:   FEDERACION RUSA
+-----------------------------
+-denomi: TPL
+-certi: 481631
+-clase: 41
+-anoexp: 13 105870 41
+-numpub: 142
+-vigen: 03/12/2022
+-tipo: MIXTA
+-solic: T-Platforms
+-domic:   FEDERACION RUSA
+-----------------------------
+-denomi: TPL
+-certi: 481631
+-clase: 42
+-anoexp: 13 105870 42
+-numpub: 142
+-vigen: 03/12/2022
+-tipo: MIXTA
+-solic: T-Platforms
+-domic:   FEDERACION RUSA
+-----------------------------
+-denomi: NZ
+-certi: 481632
+-clase: 12
+-anoexp: 13 105874
+-numpub: 143
+-vigen: 25/02/2023
+-tipo: MIXTA
+-solic: Malysheva Olga Valentinovna
+-domic:   FEDERACION RUSA
+-----------------------------
+-denomi: LEGEARTIS
+-certi: 481633
+-clase: 12
+-anoexp: 13 105877
+-numpub: 144
+-vigen: 25/02/2023
+-tipo: MIXTA
+-solic: Zakrytoe Aktsionernoe Obshchestvo Torgovaya Kompaniya "Yarshintorg"
+-domic:   FEDERACION RUSA
+-----------------------------
+-denomi: LOUIS ROYER
+-certi: 481634
+-clase: 33
+-anoexp: 13 105896
+-numpub: 145
+-vigen: 19/02/2023
+-tipo: MIXTA
+-solic: LOUIS ROYER
+-domic:   FRANCIA
+-----------------------------
+-denomi: MC2 SAINT BARTH
+-certi: 481635
+-clase: 25
+-anoexp: 13 105910
+-numpub: 146
+-vigen: 04/02/2023
+-tipo: MIXTA
+-solic: FERRARI MASSIMILIANO
+-domic:   ITALIA
+-----------------------------
+-denomi: ispo
+-certi: 481636
+-clase: 16
+-anoexp: 13 105920 16
+-numpub: 147
+-vigen: 20/03/2015
+-tipo: MIXTA
+-solic: Messe München GmbH
+-domic:   ALEMANIA
+-----------------------------
+-denomi: ispo
+-certi: 481636
+-clase: 35
+-anoexp: 13 105920 35
+-numpub: 147
+-vigen: 20/03/2015
+-tipo: MIXTA
+-solic: Messe München GmbH
+-domic:   ALEMANIA
+-----------------------------
+-denomi: ispo
+-certi: 481636
+-clase: 41
+-anoexp: 13 105920 41
+-numpub: 147
+-vigen: 20/03/2015
+-tipo: MIXTA
+-solic: Messe München GmbH
+-domic:   ALEMANIA
+-----------------------------
+-denomi: ispo
+-certi: 481636
+-clase: 42
+-anoexp: 13 105920 42
+-numpub: 147
+-vigen: 20/03/2015
+-tipo: MIXTA
+-solic: Messe München GmbH
+-domic:   ALEMANIA
+-----------------------------
+-denomi: O´STIN
+-certi: 481637
+-clase: 18
+-anoexp: 13 105926 18
+-numpub: 148
+-vigen: 30/06/2014
+-tipo: MIXTA
+-solic: Denard Ltd.
+-domic:   ISLAS VIRGENES BRITANICAS
+-----------------------------
+-denomi: O´STIN
+-certi: 481637
+-clase: 25
+-anoexp: 13 105926 25
+-numpub: 148
+-vigen: 30/06/2014
+-tipo: MIXTA
+-solic: Denard Ltd.
+-domic:   ISLAS VIRGENES BRITANICAS
+-----------------------------
+-denomi: O´STIN
+-certi: 481637
+-clase: 35
+-anoexp: 13 105926 35
+-numpub: 148
+-vigen: 30/06/2014
+-tipo: MIXTA
+-solic: Denard Ltd.
+-domic:   ISLAS VIRGENES BRITANICAS
+-----------------------------
+-denomi: STERN
+-certi: 481638
+-clase: 12
+-anoexp: 13 105933
+-numpub: 149
+-vigen: 16/08/2021
+-tipo: MIXTA
+-solic: SPORT RETAIL LTD, Offices of Aleman, Cordero, Galindo and Lee Trust (BVI)Limited
+-domic:   ISLAS VIRGENES BRITANICAS
+-----------------------------
+-denomi: RTM
+-certi: 481639
+-clase: 6
+-anoexp: 13 51989 6
+-numpub: 150
+-vigen: 11/03/2021
+-tipo: MIXTA
+-solic: Uponor Innovation AB c/o Uponor AB
+-domic:   SUECIA
+-----------------------------
+-denomi: RTM
+-certi: 481639
+-clase: 17
+-anoexp: 13 51989 17
+-numpub: 150
+-vigen: 11/03/2021
+-tipo: MIXTA
+-solic: Uponor Innovation AB c/o Uponor AB
+-domic:   SUECIA
+-----------------------------
+-denomi: RTM
+-certi: 481639
+-clase: 19
+-anoexp: 13 51989 19
+-numpub: 150
+-vigen: 11/03/2021
+-tipo: MIXTA
+-solic: Uponor Innovation AB c/o Uponor AB
+-domic:   SUECIA
+-----------------------------
+-denomi: RoadCem
+-certi: 481640
+-clase: 1
+-anoexp: 13 56112 1
+-numpub: 151
+-vigen: 12/12/2022
+-tipo: MIXTA
+-solic: Mega-Tech Holding B.V.
+-domic:   PAISES BAJOS
+-----------------------------
+-denomi: RoadCem
+-certi: 481640
+-clase: 19
+-anoexp: 13 56112 19
+-numpub: 151
+-vigen: 12/12/2022
+-tipo: MIXTA
+-solic: Mega-Tech Holding B.V.
+-domic:   PAISES BAJOS
+-----------------------------
+-denomi: CAMPER
+-certi: 481641
+-clase: 18
+-anoexp: 13 58579 18
+-numpub: 152
+-vigen: 31/01/2017
+-tipo: MIXTA
+-solic: CAMPER, S.L.
+-domic:  ESPAÑA
+-----------------------------
+-denomi: CAMPER
+-certi: 481641
+-clase: 25
+-anoexp: 13 58579 25
+-numpub: 152
+-vigen: 31/01/2017
+-tipo: MIXTA
+-solic: CAMPER, S.L.
+-domic:  ESPAÑA
+-----------------------------
+-denomi: CAMPER
+-certi: 481641
+-clase: 35
+-anoexp: 13 58579 35
+-numpub: 152
+-vigen: 31/01/2017
+-tipo: MIXTA
+-solic: CAMPER, S.L.
+-domic:  ESPAÑA
+-----------------------------
+-certi: 481642
+-clase: 18
+-anoexp: 13 58587 18
+-numpub: 153
+-vigen: 07/12/2019
+-tipo: FIGURATIVA
+-solic: G-Star Raw C.V.
+-domic:   PAISES BAJOS
+-----------------------------
+-certi: 481642
+-clase: 25
+-anoexp: 13 58587 25
+-numpub: 153
+-vigen: 07/12/2019
+-tipo: FIGURATIVA
+-solic: G-Star Raw C.V.
+-domic:   PAISES BAJOS
+-----------------------------
+-denomi: Q AND ME
+-certi: 481643
+-clase: 44
+-anoexp: 13 100355
+-numpub: 154
+-vigen: 13/11/2022
+-tipo: MIXTA
+-solic: Vivus, Inc.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: TOLERATE
+-certi: 481644
+-clase: 1
+-anoexp: 13 100356
+-numpub: 155
+-vigen: 05/02/2023
+-tipo: MIXTA
+-solic: Stoller Enterprises, Inc.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: BHDI
+-certi: 481645
+-clase: 5
+-anoexp: 13 100359
+-numpub: 156
+-vigen: 26/02/2023
+-tipo: MIXTA
+-solic: NOVARTIS AG
+-domic:  SUIZA
+-----------------------------
+-certi: 481646
+-clase: 5
+-anoexp: 13 100360
+-numpub: 157
+-vigen: 26/02/2023
+-tipo: FIGURATIVA
+-solic: NOVARTIS AG
+-domic:   SUIZA
+-----------------------------
+-denomi: women´secret
+-certi: 481647
+-clase: 14
+-anoexp: 13 771 14
+-numpub: 158
+-vigen: 12/09/2022
+-tipo: MIXTA
+-solic: Cortefiel, S.A.
+-domic:   ESPAÑA
+-----------------------------
+-denomi: women´secret
+-certi: 481647
+-clase: 35
+-anoexp: 13 771 35
+-numpub: 158
+-vigen: 12/09/2022
+-tipo: MIXTA
+-solic: Cortefiel, S.A.
+-domic:   ESPAÑA
+-----------------------------
+-denomi: JAG
+-certi: 481648
+-clase: 35
+-anoexp: 13 784
+-numpub: 159
+-vigen: 16/11/2022
+-tipo: MIXTA
+-solic: JAG Energy, Inc.
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: The JAG Group
+-certi: 481649
+-clase: 35
+-anoexp: 13 798
+-numpub: 160
+-vigen: 16/11/2022
+-tipo: MIXTA
+-solic: JAG Energy, Inc.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: JAG THE JAG GROUP
+-certi: 481650
+-clase: 35
+-anoexp: 13 3894
+-numpub: 161
+-vigen: 16/11/2022
+-tipo: MIXTA
+-solic: JAG Energy, Inc.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: JAG Energy, Inc.
+-certi: 481651
+-clase: 35
+-anoexp: 13 3895
+-numpub: 162
+-vigen: 16/11/2022
+-tipo: MIXTA
+-solic: JAG Energy, Inc.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: MASET
+-certi: 481652
+-clase: 33
+-anoexp: 13 3906
+-numpub: 163
+-vigen: 02/11/2022
+-tipo: MIXTA
+-solic: Marc Massana Esteve
+-domic:  ESPAÑA
+-----------------------------
+-certi: 481653
+-clase: 33
+-anoexp: 13 7890
+-numpub: 164
+-vigen: 25/10/2022
+-tipo: FIGURATIVA
+-solic: BODEGAS MURVIEDRO, S.A.
+-domic:  ESPAÑA
+-----------------------------

@@ -1,0 +1,29 @@
+#result{
+	font-size:0.75em;
+	}
+	
+#result b {
+	color:#c0392b;
+	
+	}
+#resultar{
+	font-size:0.75em;
+	width: 75%;
+}
+
+	
+#contenido {
+	/*margin-top:-565px;
+	margin-left:230px;*/
+	position: absolute;
+    top: 20px;
+    left: 18px;
+}	
+
+.col-md-2  {
+    margin-top: -68px;
+}
+
+.demo-download .descarga_xml {
+	width:180px;
+}

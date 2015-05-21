@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+  <title>Flipping photo in a canvas tag</title>
+  <style>
+    #canvas {cursor: pointer;}
+  </style>
+</head>
+<body>
+
+    <h1>Example of using <code>&lt;canvas&gt;</code></h1>
+
+    <p>This example shows how a photo is loaded in a <code>&lt;canvas&gt;</code> tag
+    and then flipped.</p>
+
+    <p>Click on the photo to flip (provided, of course, that your browser supports <code>&lt;canvas&gt;</code>)</p>
+
+    <canvas id="canvas"></canvas>
+
+    <script type="text/javascript">
+
+        var can = document.getElementById('canvas');
+        var ctx = can.getContext('2d');
+
+        var img = new Image();
+        img.onload = function(){
+            can.width = img.width;
+            can.height = img.height;
+            ctx.drawImage(img, 0, 0, img.width, img.height);
+        }
+        img.src = 'gaceta_zoom_035.jpg';
+
+        can.onclick = function() {
+            ctx.translate(img.width-1, img.height-1);
+            ctx.rotate(Math.PI);
+            ctx.drawImage(img, 0, 0, img.width, img.height);
+        };
+
+
+    </script>
+
+
+    <p><a href="http://www.phpied.com/photo-canvas-tag-flip/">Blog post is here</a></p>
+
+</body>
+</html>

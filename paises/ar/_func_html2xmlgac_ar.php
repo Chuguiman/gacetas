@@ -257,6 +257,13 @@
 	    }
 		unlink($carpeta . "/" . $txtfile2);	
 
+		/*==========================================Vaciamos la Tabla====================================*/
+		$sqlx = "TRUNCATE TABLE `sam_precarga_gac_exterior`;";
+		mysql_query($sqlx);	
+
+		$sqlw = "TRUNCATE TABLE `sam_descar_gac_ar`;";
+		mysql_query($sqlw);	
+
 	}
 
 $w = stream_get_wrappers();

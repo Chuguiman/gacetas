@@ -1,0 +1,3622 @@
+-----------------------------
+-denomi: CASAMA SAS
+-certi: 481745
+-clase: 36
+-anoexp: 12 220163
+-numpub: 1
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: INVERSIONES Y CONSTRUCCIONES CASAMA S.A.S.
+-domic:   DUITAMA, BOYACA, COLOMBIA
+-----------------------------
+-denomi: The Lunch
+-certi: 481746
+-clase: 43
+-anoexp: 12 230962
+-numpub: 2
+-vigen: 30/08/2023
+-tipo: MIXTA
+-solic: FRANCISCO JOSE RAMIREZ BOHORQUEZ
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: oficoop
+-certi: 481747
+-clase: 36
+-anoexp: 13 130233
+-numpub: 3
+-vigen: 18/12/2023
+-tipo: MIXTA
+-solic: GRUPO OFI S.A.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: ¡LLENA DE ENERGÍA TU VIDA!
+-certi: 481748
+-clase: 30
+-anoexp: 12 166372
+-numpub: 4
+-vigen: 10/05/2023
+-tipo: NOMINATIVA
+-solic: EDUARDO JOSE TAFUR ORJUELA
+-domic:   TULUA, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: SEGUROS UNICO
+-certi: 481749
+-clase: 35
+-anoexp: 13 114937
+-numpub: 5
+-vigen: 26/12/2023
+-tipo: NOMINATIVA
+-solic: TOLEDO TEXTILES Y MANUFACTURAS S.A. TOLTEX S.A.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: SEGUROS UNICO
+-certi: 481751
+-clase: 36
+-anoexp: 13 114942
+-numpub: 6
+-vigen: 26/12/2023
+-tipo: NOMINATIVA
+-solic: TOLEDO TEXTILES Y MANUFACTURAS S.A. TOLTEX S.A.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: SEGUROS UNICO
+-certi: 481751
+-clase: 36
+-anoexp: 13 114942
+-numpub: 7
+-vigen: 26/12/2023
+-tipo: NOMINATIVA
+-solic: TOLEDO TEXTILES Y MANUFACTURAS S.A. TOLTEX S.A.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: BRISTOL VIDEX EC
+-certi: 481752
+-clase: 5
+-anoexp: 0 71247
+-numpub: 8
+-vigen: 29/11/2023
+-tipo: NOMINATIVA
+-solic: BRISTOL-MYERS SQUIBB COMPANY
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: DISNEY HADAS
+-certi: 481753
+-clase: 3
+-anoexp: 6 28420
+-numpub: 9
+-vigen: 29/11/2023
+-tipo: NOMINATIVA
+-solic: DISNEY ENTERPRISES, INC.
+-domic:   BURBANK, CALIFORNIA, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: PROMOCALIER
+-certi: 481754
+-clase: 5
+-anoexp: 7 90077
+-numpub: 10
+-vigen: 28/11/2023
+-tipo: NOMINATIVA
+-solic: LABORATORIOS CALIER DE LOS ANDES S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: PROT-CELL
+-certi: 481755
+-clase: 3
+-anoexp: 7 59715
+-numpub: 11
+-vigen: 18/11/2023
+-tipo: MIXTA
+-solic: LABORATORIOS BUSSIÉ S.A.
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: BRIO
+-certi: 481756
+-clase: 9
+-anoexp: 7 77539
+-numpub: 12
+-vigen: 17/08/2020
+-tipo: NOMINATIVA
+-solic: GROUPE SEB COLOMBIA S.A.
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: LA BOUTIQUE DE CHOCOLATE
+-certi: 481757
+-clase: 30
+-anoexp: 8 137913
+-numpub: 13
+-vigen: 19/11/2023
+-tipo: MIXTA
+-solic: LAURA INES VELÁSQUEZ POSADA
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: CDT AMIGO
+-certi: 481758
+-clase: 36
+-anoexp: 8 102203
+-numpub: 14
+-vigen: 27/11/2023
+-tipo: NOMINATIVA
+-solic: BANCO CAJA SOCIAL BCSC S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: arolen seguridad real para un mundo real
+-certi: 481759
+-clase: 45
+-anoexp: 8 33235
+-numpub: 15
+-vigen: 25/11/2023
+-tipo: MIXTA
+-solic: AROLEN S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: ROSUMAX
+-certi: 481760
+-clase: 5
+-anoexp: 9 105526
+-numpub: 16
+-vigen: 29/10/2020
+-tipo: NOMINATIVA
+-solic: GREEN PHARMA COLOMBIA S.A.S.
+-domic:   MANIZALES, CALDAS, COLOMBIA
+-----------------------------
+-denomi: INQUITIN NOVAG
+-certi: 481761
+-clase: 5
+-anoexp: 9 147538
+-numpub: 17
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: NOVAG AGROSCIENCES C.V.
+-domic:   AMSTERDAM, PAISES BAJOS
+-----------------------------
+-denomi: VIP, VERY IMPORTANT PERSON, FORME PARTE DE LA ELITE
+-certi: 481762
+-clase: 25
+-anoexp: 10 76841
+-numpub: 18
+-vigen: 27/11/2023
+-tipo: MIXTA
+-solic: FUNDACION CREACIONES MIQUELINA
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: INTERNET MÓVIL SEGUROS UNE
+-certi: 481763
+-clase: 38
+-anoexp: 10 124252
+-numpub: 19
+-vigen: 19/11/2023
+-tipo: NOMINATIVA
+-solic: UNE EPM TELECOMUNICACIONES S.A.
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: NATIVO
+-certi: 481764
+-clase: 30
+-anoexp: 10 146739
+-numpub: 20
+-vigen: 28/11/2023
+-tipo: MIXTA
+-solic: JAIBEL LTDA
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: ANISGAX
+-certi: 481765
+-clase: 5
+-anoexp: 10 51443
+-numpub: 21
+-vigen: 30/11/2020
+-tipo: NOMINATIVA
+-solic: TECNOQUIMICAS S.A.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: ARCOR MOMENTOS MAGICOS
+-certi: 481766
+-clase: 29
+-anoexp: 10 103905
+-numpub: 22
+-vigen: 19/11/2023
+-tipo: NOMINATIVA
+-solic: ARCOR S.A. I.C.
+-domic:   BUENOS AIRES, ARGENTINA
+-----------------------------
+-denomi: MK
+-certi: 481767
+-clase: 16
+-anoexp: 10 58245
+-numpub: 23
+-vigen: 31/07/2023
+-tipo: MIXTA
+-solic: TECNOQUIMICAS S.A.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: AVC-ADVANCED VITAMIN COMPLEX
+-certi: 481768
+-clase: 1
+-anoexp: 11 155957
+-numpub: 24
+-vigen: 27/11/2023
+-tipo: NOMINATIVA
+-solic: QUALA S A
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: MARLBORO BEYOND
+-certi: 481769
+-clase: 34
+-anoexp: 11 83490
+-numpub: 25
+-vigen: 27/11/2023
+-tipo: MIXTA
+-solic: PHILIP MORRIS BRANDS SÀRL
+-domic:   NEUCHATEL, SUIZA
+-----------------------------
+-denomi: MARLBORO GOLD BEYOND
+-certi: 481770
+-clase: 34
+-anoexp: 11 83497
+-numpub: 26
+-vigen: 27/11/2023
+-tipo: MIXTA
+-solic: PHILIP MORRIS BRANDS SÀRL
+-domic:   NEUCHATEL, SUIZA
+-----------------------------
+-denomi: I ROUTER
+-certi: 481771
+-clase: 9
+-anoexp: 11 83621
+-numpub: 27
+-vigen: 27/11/2023
+-tipo: MIXTA
+-solic: TELDAT, S.A.
+-domic:   MADRID, ESPAÑA
+-----------------------------
+-denomi: CENTROS MEDICOS UMD
+-certi: 481772
+-clase: 44
+-anoexp: 11 165557
+-numpub: 28
+-vigen: 27/11/2023
+-tipo: MIXTA
+-solic: BANMEDICA COLOMBIA S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: NAVITRANS
+-certi: 481773
+-clase: 9
+-anoexp: 11 181731
+-numpub: 29
+-vigen: 18/11/2023
+-tipo: MIXTA
+-solic: COMERCIAL INTERNACIONAL DE EQUIPOS Y MAQUINARIA S.A.S.
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: IIA
+-certi: 481774
+-clase: 41
+-anoexp: 11 161509
+-numpub: 30
+-vigen: 27/11/2023
+-tipo: NOMINATIVA
+-solic: The Institute of Internal Auditors, Inc.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: 1 a 1
+-certi: 481775
+-clase: 16
+-anoexp: 11 156916
+-numpub: 31
+-vigen: 27/06/2022
+-tipo: MIXTA
+-solic: PRODUCTOS FAMILIA S.A.
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: MI CASA MI AHORRO
+-certi: 481776
+-clase: 36
+-anoexp: 11 120121
+-numpub: 32
+-vigen: 27/11/2023
+-tipo: NOMINATIVA
+-solic: BANCO CAJA SOCIAL S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: FIRETRAP
+-certi: 481777
+-clase: 25
+-anoexp: 11 120564
+-numpub: 33
+-vigen: 27/11/2023
+-tipo: NOMINATIVA
+-solic: FIRETRAP LIMITED
+-domic:   LONDRES, INGLATERRA, REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: femei
+-certi: 481778
+-clase: 5
+-anoexp: 11 113801
+-numpub: 34
+-vigen: 27/11/2023
+-tipo: MIXTA
+-solic: CADIEP DISTRIBUCIONES LTDA.
+-domic:   COTA, CUNDINAMARCA, COLOMBIA
+-----------------------------
+-denomi: TELDAT
+-certi: 481779
+-clase: 9
+-anoexp: 11 83623
+-numpub: 35
+-vigen: 27/11/2023
+-tipo: MIXTA
+-solic: TELDAT, S.A.
+-domic:   MADRID, ESPAÑA
+-----------------------------
+-denomi: GAPRIDOL
+-certi: 481780
+-clase: 5
+-anoexp: 11 96073
+-numpub: 36
+-vigen: 29/05/2022
+-tipo: NOMINATIVA
+-solic: NEOLPHARMA S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: DUALE HOCHSCHULE LATINOAMERICANA
+-certi: 481781
+-clase: 41
+-anoexp: 11 145897
+-numpub: 37
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: CAMARA DE INDUSTRIA Y COMERCIO COLOMBO-ALEMANA
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Air Delight
+-certi: 481782
+-clase: 30
+-anoexp: 11 92058
+-numpub: 38
+-vigen: 27/11/2023
+-tipo: MIXTA
+-solic: THE HERSHEY COMPANY
+-domic:   HERSHEY, PENNSYLVANIA, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: HERSHEY`S SYMPHONY
+-certi: 481783
+-clase: 30
+-anoexp: 11 93665
+-numpub: 39
+-vigen: 27/11/2023
+-tipo: NOMINATIVA
+-solic: THE HERSHEY COMPANY
+-domic:   HERSHEY, PENNSYLVANIA, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: SIEMPRE QUEDAN BIEN
+-certi: 481784
+-clase: 30
+-anoexp: 11 179427
+-numpub: 40
+-vigen: 30/10/2022
+-tipo: NOMINATIVA
+-solic: CAROLINA CORPORACIÓN S.A.S.
+-domic:  META, COLOMBIA
+-----------------------------
+-certi: 481785
+-clase: 25
+-anoexp: 11 145052
+-numpub: 41
+-vigen: 28/11/2023
+-tipo: FIGURATIVA
+-solic: STANTON S A S
+-domic:  SIBATE, CUNDINAMARCA, COLOMBIA
+-----------------------------
+-certi: 481786
+-clase: 38
+-anoexp: 11 161984
+-numpub: 42
+-vigen: 28/11/2023
+-tipo: FIGURATIVA
+-solic: VONAGE MARKETING LLC
+-domic:   NEW JERSEY, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: del Tendero
+-certi: 481787
+-clase: 30
+-anoexp: 11 165120
+-numpub: 43
+-vigen: 28/11/2023
+-tipo: MIXTA
+-solic: KAIROS DXPORTACIÓN S.A.S
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: del Tendero
+-certi: 481788
+-clase: 29
+-anoexp: 11 165118
+-numpub: 44
+-vigen: 28/11/2023
+-tipo: MIXTA
+-solic: KAIROS DXPORTACIÓN S.A.S
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: Marca REVISTA DEPORTIVA
+-certi: 481789
+-clase: 16
+-anoexp: 11 181821
+-numpub: 45
+-vigen: 28/11/2023
+-tipo: MIXTA
+-solic: ULILO ANTONIO ACEVEDO SILVA
+-domic:   SANTA MARTA, MAGDALENA, COLOMBIA
+-----------------------------
+-denomi: METROCASA GESTION INMOBILIARIA HIPOTECAS
+-certi: 481790
+-clase: 36
+-anoexp: 11 119674
+-numpub: 46
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: METROCASA S A S
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Menal
+-certi: 481791
+-clase: 5
+-anoexp: 11 161828
+-numpub: 47
+-vigen: 18/11/2023
+-tipo: MIXTA
+-solic: PRODUCTOS MENAL S A S
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: MONARCA
+-certi: 481792
+-clase: 30
+-anoexp: 11 153095
+-numpub: 48
+-vigen: 29/11/2023
+-tipo: MIXTA
+-solic: BRIGHTSIDE SAS
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: POLIPLAST
+-certi: 481793
+-clase: 37
+-anoexp: 11 175568
+-numpub: 49
+-vigen: 29/11/2023
+-tipo: MIXTA
+-solic: POLIPLAST S.A.S
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: JOHNNY COTTON
+-certi: 481794
+-clase: 25
+-anoexp: 11 179475
+-numpub: 50
+-vigen: 29/04/2023
+-tipo: MIXTA
+-solic: CONFECCIONES SHIC S.A.
+-domic:   CIUDAD DE PANAMA, PANAMA
+-----------------------------
+-denomi: María Cé
+-certi: 481795
+-clase: 30
+-anoexp: 11 163435
+-numpub: 51
+-vigen: 19/11/2023
+-tipo: MIXTA
+-solic: FABIOLA CLAROS VARGAS
+-domic:   ITAGUI, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: THE LITTLE CUPCAKE
+-certi: 481796
+-clase: 30
+-anoexp: 11 34240
+-numpub: 52
+-vigen: 29/11/2023
+-tipo: MIXTA
+-solic: ANGELA INES ARISTIZABAL DE
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: WORKMASTER
+-certi: 481797
+-clase: 9
+-anoexp: 11 120413
+-numpub: 53
+-vigen: 27/11/2023
+-tipo: NOMINATIVA
+-solic: RESPIREX INTERNATIONAL LIMITED
+-domic:   REDHILL, SURREY, REINO UNIDO DE LA GRAN BRETAÑA
+-----------------------------
+-denomi: HEMEODERM
+-certi: 481798
+-clase: 5
+-anoexp: 12 214570
+-numpub: 54
+-vigen: 30/10/2023
+-tipo: NOMINATIVA
+-solic: BIOTECH PHARMA LTDA.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: HEMEOPROSTAT
+-certi: 481799
+-clase: 5
+-anoexp: 12 214577
+-numpub: 55
+-vigen: 30/10/2023
+-tipo: NOMINATIVA
+-solic: BIOTECH PHARMA LTDA.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: UNIBOX
+-certi: 481800
+-clase: 25
+-anoexp: 12 214948
+-numpub: 56
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: SENOBIA GALVIS
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: TOPLEDS
+-certi: 481801
+-clase: 11
+-anoexp: 12 214974
+-numpub: 57
+-vigen: 30/10/2023
+-tipo: NOMINATIVA
+-solic: INTERCOMERC GROUP S.A.S
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: Rosa de Sarón
+-certi: 481802
+-clase: 44
+-anoexp: 12 215073
+-numpub: 58
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: VERENA CECILIA DE LA TORRE
+-domic:   CARTAGENA, BOLIVAR, COLOMBIA
+-----------------------------
+-denomi: SEROLAIT
+-certi: 481803
+-clase: 5
+-anoexp: 12 216487
+-numpub: 59
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: VIRBAC COLOMBIA LTDA
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: INSUALIMENTOS Premium
+-certi: 481804
+-clase: 29
+-anoexp: 12 222326
+-numpub: 60
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: INSUALIMENTOS SAS
+-domic:  BOGOTA D.C., COLOMBIA
+-----------------------------
+-certi: 481805
+-clase: 43
+-anoexp: 12 223511
+-numpub: 61
+-vigen: 30/10/2023
+-tipo: FIGURATIVA
+-solic: RODRIGO DIAZ
+-domic:   CARTAGENA, BOLIVAR, COLOMBIA
+-----------------------------
+-denomi: ANA MARIA
+-certi: 481806
+-clase: 3
+-anoexp: 12 224236
+-numpub: 62
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: PRODUCTOS DE BELLEZA ANA MARIA S.A. SIGLA PROBELAM
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Pocket Pleasure
+-certi: 481807
+-clase: 28
+-anoexp: 12 224524
+-numpub: 63
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: COMERCIALIZADORA CSF S.A.S.
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: SENSUAL DEZIRE
+-certi: 481808
+-clase: 28
+-anoexp: 12 224528
+-numpub: 64
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: COMERCIALIZADORA CSF S.A.S.
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: PAPPAMUNDI ELIC EL TALENTO Y LOS SABORES
+-certi: 481809
+-clase: 28
+-anoexp: 12 225166 28
+-numpub: 65
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: DELEGACION FUNDACION ELIC ESCUELAS LIBRES DE INVESTIGACION CIENTIFICAPARA NIÑOS
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: PAPPAMUNDI ELIC EL TALENTO Y LOS SABORES
+-certi: 481809
+-clase: 41
+-anoexp: 12 225166 41
+-numpub: 65
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: DELEGACION FUNDACION ELIC ESCUELAS LIBRES DE INVESTIGACION CIENTIFICAPARA NIÑOS
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: DIFENZ
+-certi: 481810
+-clase: 5
+-anoexp: 12 197676
+-numpub: 66
+-vigen: 18/11/2023
+-tipo: NOMINATIVA
+-solic: PERCOS S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: AGPA SAS
+-certi: 481811
+-clase: 35
+-anoexp: 12 227062
+-numpub: 67
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: AGPA CONSULTORES S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: RON MEDELLIN SIN AZÚCAR
+-certi: 481812
+-clase: 33
+-anoexp: 12 227305
+-numpub: 68
+-vigen: 30/10/2023
+-tipo: NOMINATIVA
+-solic: FABRICA DE LICORES Y ALCOHOLES DE ANTIOQUIA
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: PYGmalion
+-certi: 481813
+-clase: 41
+-anoexp: 12 227477
+-numpub: 69
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: FUNDACION PARQUE TECNOLOGICO DEL SOFTWARE MEDELLIN
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: SEÑORITA POPAYÁN
+-certi: 481814
+-clase: 41
+-anoexp: 12 231373
+-numpub: 70
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: CONCURSO NACIONAL DE BELLEZA
+-domic:   CARTAGENA, BOLIVAR, COLOMBIA
+-----------------------------
+-denomi: SEÑORITA PASTO
+-certi: 481815
+-clase: 41
+-anoexp: 12 231376
+-numpub: 71
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: CONCURSO NACIONAL DE BELLEZA
+-domic:   CARTAGENA, BOLIVAR, COLOMBIA
+-----------------------------
+-denomi: SEÑORITA ARMENIA
+-certi: 481816
+-clase: 41
+-anoexp: 12 231382
+-numpub: 72
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: CONCURSO NACIONAL DE BELLEZA
+-domic:   CARTAGENA, BOLIVAR, COLOMBIA
+-----------------------------
+-denomi: SEÑORITA BUCARAMANGA
+-certi: 481817
+-clase: 41
+-anoexp: 12 231386
+-numpub: 73
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: CONCURSO NACIONAL DE BELLEZA
+-domic:   CARTAGENA, BOLIVAR, COLOMBIA
+-----------------------------
+-denomi: SEÑORITA PEREIRA
+-certi: 481818
+-clase: 41
+-anoexp: 12 231394
+-numpub: 74
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: CONCURSO NACIONAL DE BELLEZA
+-domic:   CARTAGENA, BOLIVAR, COLOMBIA
+-----------------------------
+-denomi: SEÑORITA RIOHACHA
+-certi: 481819
+-clase: 41
+-anoexp: 12 231395
+-numpub: 75
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: CONCURSO NACIONAL DE BELLEZA
+-domic:   CARTAGENA, BOLIVAR, COLOMBIA
+-----------------------------
+-denomi: SEÑORITA CUCUTA
+-certi: 481820
+-clase: 41
+-anoexp: 12 231403
+-numpub: 76
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: CONCURSO NACIONAL DE BELLEZA
+-domic:   CARTAGENA, BOLIVAR, COLOMBIA
+-----------------------------
+-denomi: SEÑORITA IBAGUE
+-certi: 481821
+-clase: 41
+-anoexp: 12 231419
+-numpub: 77
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: CONCURSO NACIONAL DE BELLEZA
+-domic:   CARTAGENA, BOLIVAR, COLOMBIA
+-----------------------------
+-denomi: FUNDACIÓN HISPANOAMERICANA
+-certi: 481822
+-clase: 41
+-anoexp: 12 231655
+-numpub: 78
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: FUNDACION HISPANOAMERICANA SANTIAGO DE CALI
+-domic:   SANTIAGO DE CALI, COLOMBIA
+-----------------------------
+-denomi: SAUCO SOCIEDAD ADMINISTRADORA DE CARTERA
+-certi: 481823
+-clase: 35
+-anoexp: 12 235488 35
+-numpub: 79
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: COBRANZAS Y PROCESOS SAUCO S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: SAUCO SOCIEDAD ADMINISTRADORA DE CARTERA
+-certi: 481823
+-clase: 36
+-anoexp: 12 235488 36
+-numpub: 79
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: COBRANZAS Y PROCESOS SAUCO S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: SAUCO SOCIEDAD ADMINISTRADORA DE CARTERA
+-certi: 481823
+-clase: 35
+-anoexp: 12 235488 35
+-numpub: 80
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: COBRANZAS Y PROCESOS SAUCO S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: SAUCO SOCIEDAD ADMINISTRADORA DE CARTERA
+-certi: 481823
+-clase: 36
+-anoexp: 12 235488 36
+-numpub: 80
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: COBRANZAS Y PROCESOS SAUCO S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: FUERZA EMPRESARIAL PARA LA PROSPERIDAD DE BOGOTÁ Y LA REGIÓN
+-certi: 481824
+-clase: 35
+-anoexp: 12 142932
+-numpub: 81
+-vigen: 26/06/2022
+-tipo: NOMINATIVA
+-solic: CÁMARA DE COMERCIO DE BOGOTÁ
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: FUERZA EMPRESARIAL PARA LA PROSPERIDAD DE BOGOTÁ Y LA REGIÓN
+-certi: 481825
+-clase: 38
+-anoexp: 12 142980
+-numpub: 82
+-vigen: 26/06/2022
+-tipo: NOMINATIVA
+-solic: CÁMARA DE COMERCIO DE BOGOTÁ
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: FUERZA EMPRESARIAL PARA LA PROSPERIDAD DE BOGOTÁ Y LA REGIÓN
+-certi: 481826
+-clase: 41
+-anoexp: 12 143073
+-numpub: 83
+-vigen: 26/06/2022
+-tipo: NOMINATIVA
+-solic: CÁMARA DE COMERCIO DE BOGOTÁ
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: FUERZA EMPRESARIAL PARA LA PROSPERIDAD DE BOGOTÁ Y LA REGIÓN
+-certi: 481827
+-clase: 45
+-anoexp: 12 143108
+-numpub: 84
+-vigen: 26/06/2022
+-tipo: NOMINATIVA
+-solic: CÁMARA DE COMERCIO DE BOGOTÁ
+-domic:   BOGOTA D.C., COLOMBIA JUNTOS CONSTRUIMOS LA NUEVA FUERZA EMPRESARIAL PARA LA PROSPERIDAD DE
+-----------------------------
+-denomi: BOGOTÁ Y LA REGIÓN
+-certi: 481828
+-clase: 45
+-anoexp: 12 143472
+-numpub: 85
+-vigen: 26/06/2022
+-tipo: NOMINATIVA
+-solic: CÁMARA DE COMERCIO DE BOGOTÁ
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: BEBE INTELIGENTEMENTE
+-certi: 481829
+-clase: 32
+-anoexp: 12 159573
+-numpub: 86
+-vigen: 25/02/2023
+-tipo: NOMINATIVA
+-solic: AGUA VITAMINADA S.A.S
+-domic:   PEREIRA, RISARALDA, COLOMBIA
+-----------------------------
+-denomi: GIROS NACIONALES COMO LE GUSTA
+-certi: 481830
+-clase: 36
+-anoexp: 12 190908
+-numpub: 87
+-vigen: 21/06/2023
+-tipo: NOMINATIVA
+-solic: BANCO DAVIVIENDA S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: DANOS NUESTRO PANESI DE CADA DIA
+-certi: 481831
+-clase: 30
+-anoexp: 12 193319
+-numpub: 88
+-vigen: 22/03/2023
+-tipo: NOMINATIVA
+-solic: PANESI S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: SIEMPRE SEGUROS
+-certi: 481832
+-clase: 25
+-anoexp: 12 198505
+-numpub: 89
+-vigen: 26/07/2021
+-tipo: NOMINATIVA
+-solic: INVERSIONES TRIUNVIRATO S.A.
+-domic:   SANTIAGO DE CHILE, CHILE
+-----------------------------
+-denomi: SEGURIDAD 4X4
+-certi: 481833
+-clase: 25
+-anoexp: 12 198506
+-numpub: 90
+-vigen: 30/07/2023
+-tipo: NOMINATIVA
+-solic: INVERSIONES TRIUNVIRATO S.A.
+-domic:   SANTIAGO DE CHILE, CHILE
+-----------------------------
+-denomi: BUSCANDO EL EQUILIBRIO
+-certi: 481834
+-clase: 25
+-anoexp: 12 198513
+-numpub: 91
+-vigen: 26/07/2021
+-tipo: NOMINATIVA
+-solic: INVERSIONES TRIUNVIRATO S.A.
+-domic:   SANTIAGO, CHILE
+-----------------------------
+-denomi: MOMENTOS FELICES
+-certi: 481835
+-clase: 9
+-anoexp: 12 210938
+-numpub: 92
+-vigen: 17/08/2022
+-tipo: NOMINATIVA
+-solic: SOLIDDA GROUP S.A.S.
+-domic:   COTA, CUNDINAMARCA, COLOMBIA
+-----------------------------
+-denomi: MOMENTOS FELICES
+-certi: 481836
+-clase: 16
+-anoexp: 12 211017
+-numpub: 93
+-vigen: 17/08/2022
+-tipo: NOMINATIVA
+-solic: SOLIDDA GROUP S.A.S.
+-domic:   COTA, CUNDINAMARCA, COLOMBIA
+-----------------------------
+-denomi: MOMENTOS FELICES
+-certi: 481837
+-clase: 42
+-anoexp: 12 211067
+-numpub: 94
+-vigen: 28/08/2022
+-tipo: NOMINATIVA
+-solic: SOLIDDA GROUP S.A.S.
+-domic:   COTA, CUNDINAMARCA, COLOMBIA
+-----------------------------
+-denomi: CONDUCIENDO EL FUTURO!
+-certi: 481838
+-clase: 6
+-anoexp: 12 223804 6
+-numpub: 95
+-vigen: 28/06/2023
+-tipo: NOMINATIVA
+-solic: TECNOLOGIAS DE CONDUCCION Y CONTROL TCL S.A. SIGLA TCL S.A
+-domic:   BARRANQUILLA, ATLANTICO, COLOMBIA
+-----------------------------
+-denomi: CONDUCIENDO EL FUTURO!
+-certi: 481838
+-clase: 7
+-anoexp: 12 223804 7
+-numpub: 95
+-vigen: 28/06/2023
+-tipo: NOMINATIVA
+-solic: TECNOLOGIAS DE CONDUCCION Y CONTROL TCL S.A. SIGLA TCL S.A
+-domic:   BARRANQUILLA, ATLANTICO, COLOMBIA
+-----------------------------
+-denomi: CONDUCIENDO EL FUTURO!
+-certi: 481838
+-clase: 9
+-anoexp: 12 223804 9
+-numpub: 95
+-vigen: 28/06/2023
+-tipo: NOMINATIVA
+-solic: TECNOLOGIAS DE CONDUCCION Y CONTROL TCL S.A. SIGLA TCL S.A
+-domic:   BARRANQUILLA, ATLANTICO, COLOMBIA
+-----------------------------
+-denomi: CONDUCIENDO EL FUTURO!
+-certi: 481838
+-clase: 11
+-anoexp: 12 223804 11
+-numpub: 95
+-vigen: 28/06/2023
+-tipo: NOMINATIVA
+-solic: TECNOLOGIAS DE CONDUCCION Y CONTROL TCL S.A. SIGLA TCL S.A
+-domic:   BARRANQUILLA, ATLANTICO, COLOMBIA
+-----------------------------
+-denomi: CONDUCIENDO EL FUTURO!
+-certi: 481838
+-clase: 19
+-anoexp: 12 223804 19
+-numpub: 95
+-vigen: 28/06/2023
+-tipo: NOMINATIVA
+-solic: TECNOLOGIAS DE CONDUCCION Y CONTROL TCL S.A. SIGLA TCL S.A
+-domic:   BARRANQUILLA, ATLANTICO, COLOMBIA
+-----------------------------
+-denomi: CONDUCIENDO EL FUTURO!
+-certi: 481838
+-clase: 35
+-anoexp: 12 223804 35
+-numpub: 95
+-vigen: 28/06/2023
+-tipo: NOMINATIVA
+-solic: TECNOLOGIAS DE CONDUCCION Y CONTROL TCL S.A. SIGLA TCL S.A
+-domic:   BARRANQUILLA, ATLANTICO, COLOMBIA
+-----------------------------
+-denomi: CONDUCIENDO EL FUTURO!
+-certi: 481838
+-clase: 42
+-anoexp: 12 223804 42
+-numpub: 95
+-vigen: 28/06/2023
+-tipo: NOMINATIVA
+-solic: TECNOLOGIAS DE CONDUCCION Y CONTROL TCL S.A. SIGLA TCL S.A
+-domic:   BARRANQUILLA, ATLANTICO, COLOMBIA
+-----------------------------
+-denomi: PINTO Y PUNTO
+-certi: 481839
+-clase: 3
+-anoexp: 12 230376
+-numpub: 96
+-vigen: 30/04/2023
+-tipo: NOMINATIVA
+-solic: JESUS MARTIN PINTO CASTELLANOS
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: INGENIO EN TU HOGAR
+-certi: 481840
+-clase: 9
+-anoexp: 12 231542
+-numpub: 97
+-vigen: 12/12/2023
+-tipo: NOMINATIVA
+-solic: GROUPE SEB COLOMBIA S.A
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: RECUPERAMOS SU SONRISA
+-certi: 481841
+-clase: 44
+-anoexp: 12 232161
+-numpub: 98
+-vigen: 05/10/2017
+-tipo: NOMINATIVA
+-solic: SERVICIO DE ATENCIÓN ODONTOLOGICA LTDA. SEDATO LTDA.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: EL ORIGINAL BORDE RELLENO
+-certi: 481842
+-clase: 30
+-anoexp: 12 236513
+-numpub: 99
+-vigen: 21/08/2023
+-tipo: NOMINATIVA
+-solic: A ABACHAR COMERCIALIZADORA S.A.S.
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: Flexi-ON
+-certi: 481843
+-clase: 5
+-anoexp: 12 220731
+-numpub: 100
+-vigen: 18/11/2023
+-tipo: MIXTA
+-solic: INVERSIONES D & M S.A.S
+-domic:   IBAGUE, TOLIMA, COLOMBIA
+-----------------------------
+-denomi: PLUMACATE
+-certi: 481844
+-clase: 7
+-anoexp: 12 235376
+-numpub: 101
+-vigen: 27/06/2023
+-tipo: MIXTA
+-solic: ASDRUBAL DE JESUS ECHEVERRI
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: TROPIACEITE
+-certi: 481845
+-clase: 29
+-anoexp: 12 236088
+-numpub: 102
+-vigen: 27/06/2023
+-tipo: NOMINATIVA
+-solic: C.I. TEQUENDAMA S.A.S
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: SISTEMAS EMPRESARIALES Soluciones en Tegnologia para su Compañia
+-certi: 481846
+-clase: 9
+-anoexp: 12 204509
+-numpub: 103
+-vigen: 31/05/2023
+-tipo: MIXTA
+-solic: SOLUCIONES DE SOFTWARE Y SISTEMAS EMPRESARIALES S&E SAS
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: Envíos & Envíos
+-certi: 481847
+-clase: 39
+-anoexp: 12 217400
+-numpub: 104
+-vigen: 30/05/2023
+-tipo: MIXTA
+-solic: ENVIOS & ENVIOS S.A.S
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Conexa
+-certi: 481848
+-clase: 39
+-anoexp: 12 219073
+-numpub: 105
+-vigen: 30/05/2023
+-tipo: MIXTA
+-solic: GASES DE OCCIDENTE S.A. E.S.P.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: SISTEMAS EMPRESARIALES Soluciones en Tecnologia para su Compañia
+-certi: 481849
+-clase: 16
+-anoexp: 12 204505
+-numpub: 106
+-vigen: 30/05/2023
+-tipo: MIXTA
+-solic: SOLUCIONES DE SOFTWARE Y SISTEMAS EMPRESARIALES S&E SAS
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: SIAMO CAFE
+-certi: 481850
+-clase: 30
+-anoexp: 12 212801
+-numpub: 107
+-vigen: 29/05/2023
+-tipo: MIXTA
+-solic: SIAMO CAFE S.A.S
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Macadamia ORIGEN NATURAL
+-certi: 481851
+-clase: 3
+-anoexp: 12 182109
+-numpub: 108
+-vigen: 28/05/2023
+-tipo: MIXTA
+-solic: OLIVIA ROJAS LOPEZ
+-domic:   COLOMBIA
+-----------------------------
+-denomi: U MUNDO UNICO
+-certi: 481852
+-clase: 3
+-anoexp: 12 187073
+-numpub: 109
+-vigen: 29/05/2023
+-tipo: MIXTA
+-solic: UNICO INTERIOR S.A.S.
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: Doña Chava
+-certi: 481853
+-clase: 30
+-anoexp: 12 214801
+-numpub: 110
+-vigen: 30/05/2023
+-tipo: MIXTA
+-solic: ACEITES DE COLOMBIA LTDA
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: DEEPGREEN
+-certi: 481854
+-clase: 5
+-anoexp: 12 202864
+-numpub: 111
+-vigen: 31/05/2023
+-tipo: NOMINATIVA
+-solic: LIVE SYSTEMS TECHNOLOGY S.A. LST S.A.
+-domic:   SUBACHOQUE, CUNDINAMARCA, COLOMBIA
+-----------------------------
+-denomi: CERT
+-certi: 481855
+-clase: 16
+-anoexp: 12 219092 16
+-numpub: 112
+-vigen: 12/06/2023
+-tipo: NOMINATIVA
+-solic: CARNEGIE MELLON UNIVERSITY
+-domic:   PITTSBURGH, PENNSYLVANIA, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: CERT
+-certi: 481855
+-clase: 41
+-anoexp: 12 219092 41
+-numpub: 112
+-vigen: 12/06/2023
+-tipo: NOMINATIVA
+-solic: CARNEGIE MELLON UNIVERSITY
+-domic:   PITTSBURGH, PENNSYLVANIA, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: CERT
+-certi: 481855
+-clase: 42
+-anoexp: 12 219092 42
+-numpub: 112
+-vigen: 12/06/2023
+-tipo: NOMINATIVA
+-solic: CARNEGIE MELLON UNIVERSITY
+-domic:   PITTSBURGH, PENNSYLVANIA, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: UNIQ
+-certi: 481856
+-clase: 3
+-anoexp: 12 197640
+-numpub: 113
+-vigen: 21/06/2023
+-tipo: NOMINATIVA
+-solic: JAFER LIMITED
+-domic:   TORTOLA, ISLAS VIRGENES BRITANICAS
+-----------------------------
+-denomi: UNIQ
+-certi: 481857
+-clase: 14
+-anoexp: 12 197638
+-numpub: 114
+-vigen: 21/06/2023
+-tipo: NOMINATIVA
+-solic: JAFER LIMITED
+-domic:   TORTOLA, ISLAS VIRGENES BRITANICAS
+-----------------------------
+-denomi: UNIQ
+-certi: 481858
+-clase: 16
+-anoexp: 12 197637
+-numpub: 115
+-vigen: 21/06/2023
+-tipo: NOMINATIVA
+-solic: JAFER LIMITED
+-domic:   TORTOLA, ISLAS VIRGENES BRITANICAS
+-----------------------------
+-denomi: NASONIDE
+-certi: 481859
+-clase: 5
+-anoexp: 12 178464
+-numpub: 116
+-vigen: 21/06/2023
+-tipo: NOMINATIVA
+-solic: LABORATORIOS SYNTHESIS S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Mercar
+-certi: 481860
+-clase: 16
+-anoexp: 12 234832
+-numpub: 117
+-vigen: 27/06/2023
+-tipo: MIXTA
+-solic: QUICENO & CIA S.C.A.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: Mercar
+-certi: 481861
+-clase: 32
+-anoexp: 12 234836
+-numpub: 118
+-vigen: 27/06/2023
+-tipo: MIXTA
+-solic: QUICENO & CIA S.C.A.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: La Granja
+-certi: 481862
+-clase: 30
+-anoexp: 12 195404
+-numpub: 119
+-vigen: 27/06/2023
+-tipo: MIXTA
+-solic: IGLU ENTERPRISES DE COLOMBIA S.A.S.
+-domic:   COTA, CUNDINAMARCA, COLOMBIA
+-----------------------------
+-denomi: Maxi-Sabor
+-certi: 481863
+-clase: 29
+-anoexp: 12 212929
+-numpub: 120
+-vigen: 18/11/2023
+-tipo: MIXTA
+-solic: LADY MARIA PICON RINCON
+-domic:   AGUACHICA, CESAR, COLOMBIA
+-----------------------------
+-denomi: Frita Frita
+-certi: 481864
+-clase: 29
+-anoexp: 12 236098
+-numpub: 121
+-vigen: 18/11/2023
+-tipo: MIXTA
+-solic: C.I. TEQUENDAMA S.A.S
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: MEDISHOP
+-certi: 481865
+-clase: 25
+-anoexp: 12 141671
+-numpub: 122
+-vigen: 18/11/2023
+-tipo: MIXTA
+-solic: ALLERS S.A.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: AUTOMOTORES FORTALEZA
+-certi: 481866
+-clase: 39
+-anoexp: 12 129653
+-numpub: 123
+-vigen: 18/11/2023
+-tipo: NOMINATIVA
+-solic: MINVEST S.A.
+-domic:   SANTIAGO DE CHILE, SANTIAGO, CHILE
+-----------------------------
+-denomi: Leo´s DOTACIONES
+-certi: 481867
+-clase: 25
+-anoexp: 12 204187
+-numpub: 124
+-vigen: 18/11/2023
+-tipo: MIXTA
+-solic: LEOS DOTACIONES S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: JOE ROCKET
+-certi: 481868
+-clase: 9
+-anoexp: 12 180496 9
+-numpub: 125
+-vigen: 18/11/2023
+-tipo: MIXTA
+-solic: ADRIANA VICTORIA SIERRA HERZ
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: JOE ROCKET
+-certi: 481868
+-clase: 25
+-anoexp: 12 180496 25
+-numpub: 125
+-vigen: 18/11/2023
+-tipo: MIXTA
+-solic: ADRIANA VICTORIA SIERRA HERZ
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: AQ CERTIFICATION
+-certi: 481869
+-clase: 41
+-anoexp: 12 174515 41
+-numpub: 126
+-vigen: 15/11/2023
+-tipo: MIXTA
+-solic: AQ CERTIFICATIONS SAS
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: AQ CERTIFICATION
+-certi: 481869
+-clase: 42
+-anoexp: 12 174515 42
+-numpub: 126
+-vigen: 15/11/2023
+-tipo: MIXTA
+-solic: AQ CERTIFICATIONS SAS
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: tropical Cocktails
+-certi: 481870
+-clase: 43
+-anoexp: 12 166038
+-numpub: 127
+-vigen: 29/10/2023
+-tipo: MIXTA
+-solic: SANDRA PATRICIA PEREZ BARRIENTOS
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: PATTY GIRL
+-certi: 481871
+-clase: 3
+-anoexp: 12 115218
+-numpub: 128
+-vigen: 29/10/2023
+-tipo: MIXTA
+-solic: COSMETICOS JOHNVERY SAS
+-domic:   SINCELEJO, SUCRE, COLOMBIA
+-----------------------------
+-denomi: JOLIE
+-certi: 481872
+-clase: 3
+-anoexp: 12 200075
+-numpub: 129
+-vigen: 29/10/2023
+-tipo: NOMINATIVA
+-solic: LABORATORIOS DE COSMETICOS VOGUE S.A.
+-domic:   SOACHA, CUNDINAMARCA, COLOMBIA
+-----------------------------
+-denomi: TECH BAY
+-certi: 481873
+-clase: 9
+-anoexp: 12 207057 9
+-numpub: 130
+-vigen: 29/10/2023
+-tipo: NOMINATIVA
+-solic: CENCOSUD S.A.
+-domic:   CHILE
+-----------------------------
+-denomi: TECH BAY
+-certi: 481873
+-clase: 11
+-anoexp: 12 207057 11
+-numpub: 130
+-vigen: 29/10/2023
+-tipo: NOMINATIVA
+-solic: CENCOSUD S.A.
+-domic:   CHILE
+-----------------------------
+-denomi: SLA COL
+-certi: 481874
+-clase: 42
+-anoexp: 12 208715
+-numpub: 131
+-vigen: 29/10/2023
+-tipo: MIXTA
+-solic: SLA COL S.A.S
+-domic:   TENJO, CUNDINAMARCA, COLOMBIA
+-----------------------------
+-denomi: DIABETRICS DRYDERMA
+-certi: 481875
+-clase: 3
+-anoexp: 12 210702
+-numpub: 132
+-vigen: 29/10/2023
+-tipo: NOMINATIVA
+-solic: PROCAPS S.A.
+-domic:   BARRANQUILLA, ATLANTICO, COLOMBIA
+-----------------------------
+-denomi: PECTOMAY
+-certi: 481876
+-clase: 5
+-anoexp: 12 212458
+-numpub: 133
+-vigen: 29/10/2023
+-tipo: NOMINATIVA
+-solic: NUTRI MACK LTDA
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Marcela Zafra
+-certi: 481877
+-clase: 14
+-anoexp: 12 214119
+-numpub: 134
+-vigen: 29/10/2023
+-tipo: MIXTA
+-solic: MARCELA ZAFRA PULIDO
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: Aspaen Gimnasio Cantillana Bucaramanga
+-certi: 481878
+-clase: 41
+-anoexp: 12 217386
+-numpub: 135
+-vigen: 29/10/2023
+-tipo: MIXTA
+-solic: ASOCIACION PARA LA ENSEÑANZA ASPAEN
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: ENTRE VERDES
+-certi: 481879
+-clase: 36
+-anoexp: 12 226358
+-numpub: 136
+-vigen: 29/10/2023
+-tipo: MIXTA
+-solic: CONSTRUCTORA ENTRE VERDES S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Smart Complex
+-certi: 481880
+-clase: 5
+-anoexp: 12 147168
+-numpub: 137
+-vigen: 14/11/2023
+-tipo: NOMINATIVA
+-solic: GRUPO MARDIZ S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: FRENOS EL PINO
+-certi: 481881
+-clase: 35
+-anoexp: 12 131864
+-numpub: 138
+-vigen: 30/10/2023
+-tipo: NOMINATIVA
+-solic: FRENOCENTRO INDUSTRIAL EL PINO LTDA
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: VinciLab Healthcare
+-certi: 481882
+-clase: 5
+-anoexp: 12 137743 5
+-numpub: 139
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: MIGUEL ALFONSO PIMIENTA ESCOBAR
+-domic:  BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: VinciLab Healthcare
+-certi: 481882
+-clase: 35
+-anoexp: 12 137743 35
+-numpub: 139
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: MIGUEL ALFONSO PIMIENTA ESCOBAR
+-domic:  BOGOTA D.C., COLOMBIA
+-----------------------------
+-certi: 481883
+-clase: 14
+-anoexp: 12 148486
+-numpub: 140
+-vigen: 30/10/2023
+-tipo: FIGURATIVA
+-solic: POLKATRADING S.A.S.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: PEEKABOO DISEÑO EXCLUSIVO
+-certi: 481884
+-clase: 16
+-anoexp: 12 148505
+-numpub: 141
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: PAOLA CRISTINA RECIO DOSSMANN
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: 419
+-certi: 481885
+-clase: 35
+-anoexp: 12 148550
+-numpub: 142
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: POLKATRADING S.A.S.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: 419
+-certi: 481886
+-clase: 44
+-anoexp: 12 148557
+-numpub: 143
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: POLKATRADING S.A.S.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: AMERICA TODAY 157
+-certi: 481887
+-clase: 25
+-anoexp: 12 166331
+-numpub: 144
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: RENATO ZONA LIBRE S.A
+-domic:   ZONA LIBRE DE COLON, COLON, PANAMA
+-----------------------------
+-denomi: Heaven Industry
+-certi: 481888
+-clase: 25
+-anoexp: 12 170480
+-numpub: 145
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: GUZMAN MARQUEZ MAYORISTA INTERNACIONAL S.A.S.
+-domic:   PEREIRA, RISARALDA, COLOMBIA
+-----------------------------
+-denomi: DARNELZIP
+-certi: 481889
+-clase: 16
+-anoexp: 12 173517
+-numpub: 146
+-vigen: 30/10/2023
+-tipo: NOMINATIVA
+-solic: LUZERNE INVESTMENTS LIMITED
+-domic:   ISLAS VIRGENES BRITANICAS, ISLAS VIRGENES BRITANICAS
+-----------------------------
+-denomi: REVE LINGERIE
+-certi: 481890
+-clase: 25
+-anoexp: 12 174646
+-numpub: 147
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: REVE LINGERIE S.A.S
+-domic:   LOS PATIOS, COLOMBIA
+-----------------------------
+-denomi: TASU
+-certi: 481891
+-clase: 42
+-anoexp: 12 177157
+-numpub: 148
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: TASU S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Meeting +
+-certi: 481892
+-clase: 42
+-anoexp: 12 177260
+-numpub: 149
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: TASU S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: ONBRIZE CORT
+-certi: 481893
+-clase: 5
+-anoexp: 12 179789
+-numpub: 150
+-vigen: 30/10/2023
+-tipo: NOMINATIVA
+-solic: NOVARTIS AG
+-domic:   BASEL, SUIZA
+-----------------------------
+-denomi: Menú 3Diez
+-certi: 481894
+-clase: 43
+-anoexp: 12 200328 43
+-numpub: 151
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: GRUPO CBC S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Menú 3Diez
+-certi: 481894
+-clase: 29
+-anoexp: 12 200328 29
+-numpub: 151
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: GRUPO CBC S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Menú 3Diez
+-certi: 481894
+-clase: 30
+-anoexp: 12 200328 30
+-numpub: 151
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: GRUPO CBC S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Green park
+-certi: 481895
+-clase: 37
+-anoexp: 12 201172
+-numpub: 152
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: MERIDIAN PROPERTIES S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: CAB-O-SIL
+-certi: 481896
+-clase: 1
+-anoexp: 12 203848 1
+-numpub: 153
+-vigen: 30/10/2023
+-tipo: NOMINATIVA
+-solic: CABOT CORPORATION
+-domic:   BOSTON, MASSACHUSETTS, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: CAB-O-SIL
+-certi: 481896
+-clase: 2
+-anoexp: 12 203848 2
+-numpub: 153
+-vigen: 30/10/2023
+-tipo: NOMINATIVA
+-solic: CABOT CORPORATION
+-domic:   BOSTON, MASSACHUSETTS, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: LandsteinerScientific
+-certi: 481897
+-clase: 5
+-anoexp: 12 207226 5
+-numpub: 154
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: LANDSTEINER SCIENTIFIC S.A. DE C.V.
+-domic:   MEXICO, DISTRITO FEDERAL, MEXICO
+-----------------------------
+-denomi: LandsteinerScientific
+-certi: 481897
+-clase: 44
+-anoexp: 12 207226 44
+-numpub: 154
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: LANDSTEINER SCIENTIFIC S.A. DE C.V.
+-domic:   MEXICO, DISTRITO FEDERAL, MEXICO
+-----------------------------
+-denomi: THE QUEEN´S FLOWERS
+-certi: 481898
+-clase: 31
+-anoexp: 12 225395 31
+-numpub: 155
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: THE QUEEN´S FLOWERS CORP.
+-domic:   MIAMI, FLORIDA, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: THE QUEEN´S FLOWERS
+-certi: 481898
+-clase: 35
+-anoexp: 12 225395 35
+-numpub: 155
+-vigen: 30/10/2023
+-tipo: MIXTA
+-solic: THE QUEEN´S FLOWERS CORP.
+-domic:   MIAMI, FLORIDA, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: POLITE
+-certi: 481899
+-clase: 25
+-anoexp: 12 101650
+-numpub: 156
+-vigen: 20/03/2023
+-tipo: MIXTA
+-solic: DIANA ESTHER CORTES RAMIREZ
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: AQUENCE
+-certi: 481900
+-clase: 1
+-anoexp: 12 71748 1
+-numpub: 157
+-vigen: 22/11/2023
+-tipo: NOMINATIVA
+-solic: HENKEL AG & Co. KGaA
+-domic:   DÜSSELDORF, ALEMANIA
+-----------------------------
+-denomi: AQUENCE
+-certi: 481900
+-clase: 3
+-anoexp: 12 71748 3
+-numpub: 157
+-vigen: 22/11/2023
+-tipo: NOMINATIVA
+-solic: HENKEL AG & Co. KGaA
+-domic:   DÜSSELDORF, ALEMANIA
+-----------------------------
+-denomi: ITALIATO
+-certi: 481901
+-clase: 30
+-anoexp: 12 44083
+-numpub: 158
+-vigen: 22/11/2023
+-tipo: MIXTA
+-solic: C.I.3 COLOR PRODUCTS LTDA
+-domic:  BOGOTA D.C., COLOMBIA
+-----------------------------
+-certi: 481902
+-clase: 43
+-anoexp: 12 107185
+-numpub: 159
+-vigen: 21/11/2023
+-tipo: FIGURATIVA
+-solic: MONTAJES EL PERRERO S.A.S
+-domic:  MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-certi: 481903
+-clase: 17
+-anoexp: 12 56213
+-numpub: 160
+-vigen: 21/11/2023
+-tipo: TRIDIMENSIONAL
+-solic: GRUPO RHC S.A.S.
+-domic:   BOGOTA D.C., CUNDINAMARCA, COLOMBIA
+-----------------------------
+-denomi: GAVIOTA
+-certi: 481904
+-clase: 3
+-anoexp: 12 25261
+-numpub: 161
+-vigen: 19/11/2023
+-tipo: MIXTA
+-solic: LABORATORIOS VIDA S.A.S
+-domic:   COPACABANA, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: TVI
+-certi: 481905
+-clase: 38
+-anoexp: 12 74404
+-numpub: 162
+-vigen: 19/11/2023
+-tipo: MIXTA
+-solic: TELEVISION SATELITAL LTDA.
+-domic:   SAN JOSE DEL GUAVIARE, GUAVIARE, COLOMBIA
+-----------------------------
+-denomi: NUTRISOY
+-certi: 481906
+-clase: 30
+-anoexp: 12 99722
+-numpub: 163
+-vigen: 18/11/2023
+-tipo: NOMINATIVA
+-solic: ARCHER DANIELS MIDLAND COMPANY
+-domic:   DECATUR, ILLINOIS, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: LA PRIMERA, LA ORIGINAL, LA TRADICIONAL
+-certi: 481907
+-clase: 30
+-anoexp: 12 188285
+-numpub: 164
+-vigen: 30/03/2018
+-tipo: NOMINATIVA
+-solic: C.A. SUCESORA DE JOSE PUIG & CIA
+-domic:   CARACAS, DISTRITO FEDERAL, VENEZUELA
+-----------------------------
+-denomi: PEGOTILES
+-certi: 481908
+-clase: 19
+-anoexp: 12 207527
+-numpub: 165
+-vigen: 29/10/2023
+-tipo: NOMINATIVA
+-solic: WORLD TILES SAS
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: scian
+-certi: 481909
+-clase: 10
+-anoexp: 12 197378
+-numpub: 166
+-vigen: 29/10/2023
+-tipo: MIXTA
+-solic: AFA MEDICAL WORLD S.A.S.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: Body Elegance
+-certi: 481910
+-clase: 35
+-anoexp: 12 220290
+-numpub: 167
+-vigen: 20/05/2023
+-tipo: MIXTA
+-solic: TELEVENTAS S A
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: KLYNOX
+-certi: 481911
+-clase: 3
+-anoexp: 12 119625
+-numpub: 168
+-vigen: 23/04/2023
+-tipo: NOMINATIVA
+-solic: POLIKEM S.A.S.
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: C T K
+-certi: 481912
+-clase: 5
+-anoexp: 12 183894
+-numpub: 169
+-vigen: 21/03/2023
+-tipo: MIXTA
+-solic: BIOLORE LTDA
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: CANAL CLICK COLOMBIA
+-certi: 481913
+-clase: 38
+-anoexp: 12 128848
+-numpub: 170
+-vigen: 28/02/2023
+-tipo: NOMINATIVA
+-solic: CORPORACION CANAL UNIVERSITARIO DE ANTIOQUIA
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: CANAL CLICK COLOMBIA
+-certi: 481914
+-clase: 35
+-anoexp: 12 128842
+-numpub: 171
+-vigen: 31/01/2023
+-tipo: NOMINATIVA
+-solic: CORPORACION CANAL UNIVERSITARIO DE ANTIOQUIA
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: AVANTEL
+-certi: 481915
+-clase: 35
+-anoexp: 12 133967
+-numpub: 172
+-vigen: 26/12/2022
+-tipo: NOMINATIVA
+-solic: AVANTEL S.A.S
+-domic:   BUCARAMANGA, SANTANDER, COLOMBIA
+-----------------------------
+-denomi: POLLOS DE LA GRANJA ANTIOQUIA
+-certi: 481916
+-clase: 29
+-anoexp: 12 216477
+-numpub: 173
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: POLLOS DE LA GRANJA ANTIOQUIA S.A.S.
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: VICTORIA DEL VALLE
+-certi: 481917
+-clase: 30
+-anoexp: 12 160608
+-numpub: 174
+-vigen: 31/10/2023
+-tipo: NOMINATIVA
+-solic: EDUARDO JOSE TAFUR ORJUELA
+-domic:   TULUA, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: ecoMáx
+-certi: 481918
+-clase: 35
+-anoexp: 12 216896
+-numpub: 175
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: WILLIAM ALCIDES QUINTERO OROZCO / OSCAR MANUEL MONTOYA GIRALDO
+-domic:   LA ESTRELLA, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: SII - ONCO - BCG
+-certi: 481919
+-clase: 5
+-anoexp: 12 125260
+-numpub: 176
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: LARYSA ANELS ROSAL ARELLANO
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: La Licorera.com
+-certi: 481920
+-clase: 33
+-anoexp: 12 172570
+-numpub: 177
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: INTUKANA S.A.S
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: KENT ISHIFT
+-certi: 481921
+-clase: 34
+-anoexp: 12 200796
+-numpub: 178
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: BRITISH AMERICAN TOBACCO (BRANDS) INC.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: EXPERIA
+-certi: 481922
+-clase: 25
+-anoexp: 12 196625
+-numpub: 179
+-vigen: 29/08/2022
+-tipo: MIXTA
+-solic: Throneburg, James L.
+-domic:   ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: CONKACHO
+-certi: 481923
+-clase: 30
+-anoexp: 12 205020
+-numpub: 180
+-vigen: 31/10/2023
+-tipo: NOMINATIVA
+-solic: ANDRES PUSSETTO VILLEGAS
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: GORDO
+-certi: 481924
+-clase: 43
+-anoexp: 12 174920
+-numpub: 181
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: ABEL Y SOFIA SAS
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: ACIEME
+-certi: 481925
+-clase: 42
+-anoexp: 12 232568
+-numpub: 182
+-vigen: 31/10/2023
+-tipo: NOMINATIVA
+-solic: ASOCIACION COLOMBIANA DE INGENIEROS ACIEM - SIGLA ACIEM
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: tabcin Active
+-certi: 481926
+-clase: 5
+-anoexp: 12 167924
+-numpub: 183
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: BAYER HEALTH CARE LLC
+-domic:   PITTSBURGH, PENNSYLVANIA, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: tabcin Active Efervescente
+-certi: 481927
+-clase: 5
+-anoexp: 12 167933
+-numpub: 184
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: BAYER HEALTH CARE LLC
+-domic:   PITTSBURGH, PENNSYLVANIA, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: APRONAX
+-certi: 481928
+-clase: 5
+-anoexp: 12 167939
+-numpub: 185
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: BAYER CONSUMER CARE A.G.
+-domic:   BASEL, SUIZA
+-----------------------------
+-denomi: PLASMADERM
+-certi: 481929
+-clase: 10
+-anoexp: 12 167981
+-numpub: 186
+-vigen: 31/10/2023
+-tipo: NOMINATIVA
+-solic: CINOGY ANDINA SAS
+-domic:  BOGOTA D.C., COLOMBIA
+-----------------------------
+-certi: 481930
+-clase: 9
+-anoexp: 12 168051
+-numpub: 187
+-vigen: 31/10/2023
+-tipo: TRIDIMENSIONAL
+-solic: ULTIMATE GAME RANK SAS SIGLA UGR SAS
+-domic:  BOGOTA D.C., COLOMBIA
+-----------------------------
+-certi: 481931
+-clase: 16
+-anoexp: 12 168063
+-numpub: 188
+-vigen: 31/10/2023
+-tipo: TRIDIMENSIONAL
+-solic: ULTIMATE GAME RANK SAS SIGLA UGR SAS
+-domic:  BOGOTA D.C., COLOMBIA
+-----------------------------
+-certi: 481932
+-clase: 38
+-anoexp: 12 168074
+-numpub: 189
+-vigen: 31/10/2023
+-tipo: TRIDIMENSIONAL
+-solic: ULTIMATE GAME RANK SAS SIGLA UGR SAS
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: ESSIE
+-certi: 481933
+-clase: 3
+-anoexp: 12 169675
+-numpub: 190
+-vigen: 31/10/2023
+-tipo: NOMINATIVA
+-solic: L´OREAL
+-domic:   PARIS, FRANCIA
+-----------------------------
+-denomi: NYNZEL DISAROMAS
+-certi: 481934
+-clase: 1
+-anoexp: 12 169865
+-numpub: 191
+-vigen: 31/10/2023
+-tipo: NOMINATIVA
+-solic: PRODUCTORA NACIONAL DE AROMAS, FRAGANCIAS Y COLORANTES S.A.DISAROMAS S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Sv Su Vendedor.com.co
+-certi: 481935
+-clase: 35
+-anoexp: 12 173294
+-numpub: 192
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: PÁGINAS TELMEX COLOMBIA S.A.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: FAICO EXPRESS
+-certi: 481936
+-clase: 35
+-anoexp: 12 175205
+-numpub: 193
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: FABRICA ITALO-COLOMBIANA DE BATERIAS FAICO S.A.S.
+-domic:   BUCARAMANGA, SANTANDER, COLOMBIA
+-----------------------------
+-denomi: GINECOEDUCA
+-certi: 481937
+-clase: 41
+-anoexp: 12 179749 41
+-numpub: 194
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: GRÜNENTHAL GMBH
+-domic:   AACHEN, NORDRHEIN-WESTFALEN, ALEMANIA
+-----------------------------
+-denomi: GINECOEDUCA
+-certi: 481937
+-clase: 42
+-anoexp: 12 179749 42
+-numpub: 194
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: GRÜNENTHAL GMBH
+-domic:   AACHEN, NORDRHEIN-WESTFALEN, ALEMANIA
+-----------------------------
+-denomi: GINECOEDUCA
+-certi: 481937
+-clase: 44
+-anoexp: 12 179749 44
+-numpub: 194
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: GRÜNENTHAL GMBH
+-domic:   AACHEN, NORDRHEIN-WESTFALEN, ALEMANIA
+-----------------------------
+-denomi: Cooagropal
+-certi: 481938
+-clase: 29
+-anoexp: 12 193004 29
+-numpub: 195
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: COOPERATIVA AGROPECUARIA DE PALO ALTO COOAGROPAL
+-domic:   SAN ONOFRE, SUCRE, COLOMBIA
+-----------------------------
+-denomi: Cooagropal
+-certi: 481938
+-clase: 32
+-anoexp: 12 193004 32
+-numpub: 195
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: COOPERATIVA AGROPECUARIA DE PALO ALTO COOAGROPAL
+-domic:   SAN ONOFRE, SUCRE, COLOMBIA
+-----------------------------
+-denomi: Impressions PINDO 2000
+-certi: 481939
+-clase: 16
+-anoexp: 12 199495
+-numpub: 196
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: PT PURINUSA EKAPERSADA Y PT PINDO DELI PULP AND PAPER MILLS
+-domic:   INDONESIA
+-----------------------------
+-denomi: BURNS
+-certi: 481940
+-clase: 45
+-anoexp: 12 207228
+-numpub: 197
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: SECURITAS COLOMBIA S.A. (ANTES SEGURIDAD BURNS DE COLOMBIA S.A.)
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Maga
+-certi: 481941
+-clase: 41
+-anoexp: 12 214864
+-numpub: 198
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: MARGARITA MARIA BETANCUR ZAPATA
+-domic:   COLOMBIA
+-----------------------------
+-denomi: RINCON DEL SABOR
+-certi: 481942
+-clase: 9
+-anoexp: 12 216217
+-numpub: 199
+-vigen: 31/10/2023
+-tipo: NOMINATIVA
+-solic: ARROCERA LA ESMERALDA SA
+-domic:   JAMUNDI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: POLISPORT
+-certi: 481943
+-clase: 11
+-anoexp: 12 216221
+-numpub: 200
+-vigen: 31/10/2023
+-tipo: NOMINATIVA
+-solic: POLISPORT PLÁSTICOS, S.A.
+-domic:   OLIVEIRA DE AZEMEIS, NORTE, PORTUGAL
+-----------------------------
+-denomi: PIRRY
+-certi: 481944
+-clase: 35
+-anoexp: 12 220297
+-numpub: 201
+-vigen: 31/10/2023
+-tipo: NOMINATIVA
+-solic: GUILLERMO PRIETO LAROTTA
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: KINKY
+-certi: 481945
+-clase: 28
+-anoexp: 12 220683
+-numpub: 202
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: MASCOTAS MAR S.A.S.
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: plantagro
+-certi: 481946
+-clase: 6
+-anoexp: 12 221059 6
+-numpub: 203
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: SOLUCIONES Y CONEXIONES COMERCIALES S.A.S SIGLA CONEXCOR SA.S
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: plantagro
+-certi: 481946
+-clase: 9
+-anoexp: 12 221059 9
+-numpub: 203
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: SOLUCIONES Y CONEXIONES COMERCIALES S.A.S SIGLA CONEXCOR SA.S
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: plantagro
+-certi: 481946
+-clase: 11
+-anoexp: 12 221059 11
+-numpub: 203
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: SOLUCIONES Y CONEXIONES COMERCIALES S.A.S SIGLA CONEXCOR SA.S
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: plantagro
+-certi: 481946
+-clase: 16
+-anoexp: 12 221059 16
+-numpub: 203
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: SOLUCIONES Y CONEXIONES COMERCIALES S.A.S SIGLA CONEXCOR SA.S
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: plantagro
+-certi: 481946
+-clase: 20
+-anoexp: 12 221059 20
+-numpub: 203
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: SOLUCIONES Y CONEXIONES COMERCIALES S.A.S SIGLA CONEXCOR SA.S
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: plantagro
+-certi: 481946
+-clase: 22
+-anoexp: 12 221059 22
+-numpub: 203
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: SOLUCIONES Y CONEXIONES COMERCIALES S.A.S SIGLA CONEXCOR SA.S
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: plantagro
+-certi: 481946
+-clase: 24
+-anoexp: 12 221059 24
+-numpub: 203
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: SOLUCIONES Y CONEXIONES COMERCIALES S.A.S SIGLA CONEXCOR SA.S
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: KLIP ENERGY
+-certi: 481947
+-clase: 32
+-anoexp: 12 221728
+-numpub: 204
+-vigen: 31/10/2023
+-tipo: NOMINATIVA
+-solic: CAODEL S.A.S
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: E Y S INGENIERIA DE COLOMBIA
+-certi: 481948
+-clase: 42
+-anoexp: 12 221907
+-numpub: 205
+-vigen: 31/10/2023
+-tipo: NOMINATIVA
+-solic: E Y S INGENIERIA DE COLOMBIA LTDA
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: CULTIVARTE ALIMENTOS DEL CAMPO
+-certi: 481949
+-clase: 29
+-anoexp: 12 122713
+-numpub: 206
+-vigen: 25/10/2023
+-tipo: MIXTA
+-solic: FRANK MAURICIO CASTAÑO GUTIERREZ
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: San Antojo
+-certi: 481950
+-clase: 30
+-anoexp: 12 222332
+-numpub: 207
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: INSUALIMENTOS SAS
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: MEDISHOP
+-certi: 481951
+-clase: 5
+-anoexp: 12 141678
+-numpub: 208
+-vigen: 31/01/2023
+-tipo: MIXTA
+-solic: ALLERS S.A.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: DURAVIT
+-certi: 481952
+-clase: 6
+-anoexp: 12 180017 6
+-numpub: 209
+-vigen: 03/08/2023
+-tipo: MIXTA
+-solic: DURAVIT AG
+-domic:   ALEMANIA
+-----------------------------
+-denomi: DURAVIT
+-certi: 481952
+-clase: 11
+-anoexp: 12 180017 11
+-numpub: 209
+-vigen: 03/08/2023
+-tipo: MIXTA
+-solic: DURAVIT AG
+-domic:   ALEMANIA
+-----------------------------
+-denomi: DURAVIT
+-certi: 481952
+-clase: 20
+-anoexp: 12 180017 20
+-numpub: 209
+-vigen: 03/08/2023
+-tipo: MIXTA
+-solic: DURAVIT AG
+-domic:   ALEMANIA
+-----------------------------
+-denomi: DURAVIT
+-certi: 481952
+-clase: 21
+-anoexp: 12 180017 21
+-numpub: 209
+-vigen: 03/08/2023
+-tipo: MIXTA
+-solic: DURAVIT AG
+-domic:   ALEMANIA
+-----------------------------
+-denomi: i inlingua
+-certi: 481953
+-clase: 9
+-anoexp: 12 211968 9
+-numpub: 210
+-vigen: 18/11/2020
+-tipo: MIXTA
+-solic: inlingua International AG
+-domic:   SUIZA
+-----------------------------
+-denomi: i inlingua
+-certi: 481953
+-clase: 16
+-anoexp: 12 211968 16
+-numpub: 210
+-vigen: 18/11/2020
+-tipo: MIXTA
+-solic: inlingua International AG
+-domic:   SUIZA
+-----------------------------
+-denomi: i inlingua
+-certi: 481953
+-clase: 41
+-anoexp: 12 211968 41
+-numpub: 210
+-vigen: 18/11/2020
+-tipo: MIXTA
+-solic: inlingua International AG
+-domic:   SUIZA
+-----------------------------
+-denomi: i inlingua
+-certi: 481953
+-clase: 42
+-anoexp: 12 211968 42
+-numpub: 210
+-vigen: 18/11/2020
+-tipo: MIXTA
+-solic: inlingua International AG
+-domic:   SUIZA
+-----------------------------
+-denomi: A philosophy of life
+-certi: 481954
+-clase: 14
+-anoexp: 12 204792
+-numpub: 211
+-vigen: 02/10/2022
+-tipo: MIXTA
+-solic: Sowind SA
+-domic:   NO DISPONIBLE -
+-----------------------------
+-denomi: GLACIAL
+-certi: 481955
+-clase: 32
+-anoexp: 12 229862
+-numpub: 212
+-vigen: 19/11/2023
+-tipo: NOMINATIVA
+-solic: EMBOTELLADORA DE BEBIDAS DEL TOLIMA S.A
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Conexa
+-certi: 481956
+-clase: 42
+-anoexp: 12 219111
+-numpub: 213
+-vigen: 19/11/2023
+-tipo: MIXTA
+-solic: GASES DE OCCIDENTE S.A. E.S.P.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: Conexa
+-certi: 481957
+-clase: 35
+-anoexp: 12 219088
+-numpub: 214
+-vigen: 19/11/2023
+-tipo: MIXTA
+-solic: GASES DE OCCIDENTE S.A. E.S.P.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: gacela
+-certi: 481958
+-clase: 39
+-anoexp: 12 201623
+-numpub: 215
+-vigen: 19/11/2023
+-tipo: MIXTA
+-solic: FLOTA MAGDALENA S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: aSi de facil
+-certi: 481959
+-clase: 35
+-anoexp: 12 235924
+-numpub: 216
+-vigen: 19/11/2023
+-tipo: MIXTA
+-solic: SWEET COMMERCIAL CORP
+-domic:   ROAD TOWN, TORTOLA, ISLAS VIRGENES BRITANICAS
+-----------------------------
+-denomi: Buprion
+-certi: 481960
+-clase: 5
+-anoexp: 12 213477
+-numpub: 217
+-vigen: 31/10/2023
+-tipo: MIXTA
+-solic: EUROFARMA COLOMBIA S A S
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: NUTRIBIÉN
+-certi: 481961
+-clase: 32
+-anoexp: 12 211574
+-numpub: 218
+-vigen: 31/10/2023
+-tipo: NOMINATIVA
+-solic: MIGUEL MOSCOSO
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: BISOSEL
+-certi: 481962
+-clase: 5
+-anoexp: 12 132939
+-numpub: 219
+-vigen: 31/10/2023
+-tipo: NOMINATIVA
+-solic: NOVARTIS AG.
+-domic:   BASILEA, BASEL-STADT, SUIZA
+-----------------------------
+-denomi: BETTANIN
+-certi: 481963
+-clase: 21
+-anoexp: 12 113649
+-numpub: 220
+-vigen: 31/10/2023
+-tipo: NOMINATIVA
+-solic: BETTANIN INDUSTRIAL S/A
+-domic:   ESTEIO, RIO GRANDE DO SUL, BRASIL
+-----------------------------
+-denomi: KUBIK
+-certi: 481964
+-clase: 35
+-anoexp: 12 106603
+-numpub: 221
+-vigen: 08/04/2023
+-tipo: MIXTA
+-solic: FROG DESIGN
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: MARLON BECERRA
+-certi: 481965
+-clase: 35
+-anoexp: 12 147881
+-numpub: 222
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: MARLON BECERRA DIAZ
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: LIFE H.S.
+-certi: 481966
+-clase: 3
+-anoexp: 12 148108
+-numpub: 223
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: LIFE HS S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: RAULAND
+-certi: 481967
+-clase: 9
+-anoexp: 12 148390
+-numpub: 224
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: RAULAND-BORG CORPORATION
+-domic:   MOUNT PROSPECT, ILLINOIS, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: APOLO EL DE LA CHULETA VE!
+-certi: 481968
+-clase: 43
+-anoexp: 12 148533
+-numpub: 225
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: MARIA ROSALBA COLLAZOS DE HOME
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: RIVAC
+-certi: 481969
+-clase: 36
+-anoexp: 12 148823
+-numpub: 226
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: RIVAC BUSINESS CORP
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: T&C HYCOMM
+-certi: 481970
+-clase: 38
+-anoexp: 12 151759
+-numpub: 227
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: TELEFONOS Y CITOFONOS SAS
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: GERIAFULL
+-certi: 481971
+-clase: 5
+-anoexp: 12 151766
+-numpub: 228
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: JORGE IVAN HERRERA OSORIO
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: ROBUST
+-certi: 481972
+-clase: 33
+-anoexp: 12 152298
+-numpub: 229
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: SUN MARK LTD
+-domic:   GREENFORD MIDDLESEX, INGLATERRA, REINO UNIDO
+-----------------------------
+-denomi: PRODUCTOS DROGAM
+-certi: 481973
+-clase: 3
+-anoexp: 12 153091
+-numpub: 230
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: PRODUCTOS DROGAM S.A.S.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: CANTO DEL SUR
+-certi: 481974
+-clase: 33
+-anoexp: 12 206671
+-numpub: 231
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: IMPORTACIONES Y EXPORTACIONES BOGOTA, EXIMBO S.A.S. - EXIMBO S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: restaurante galeria Colombia
+-certi: 481975
+-clase: 43
+-anoexp: 12 209310
+-numpub: 232
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: INVERSIONES EXLCUSIVAS SAS
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Hydrotears PLUS
+-certi: 481976
+-clase: 5
+-anoexp: 12 209314
+-numpub: 233
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: ITAL QUIMICA S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: CafeLightT Colombia
+-certi: 481977
+-clase: 44
+-anoexp: 12 217427
+-numpub: 234
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: INVERSIONES MTG S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Vitareds
+-certi: 481978
+-clase: 5
+-anoexp: 12 217871
+-numpub: 235
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: NOVAGENE LABORATORIES S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: SIRIUS-SMB
+-certi: 481979
+-clase: 6
+-anoexp: 12 223822
+-numpub: 236
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: ACERARQ S A S
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Kapok
+-certi: 481980
+-clase: 42
+-anoexp: 12 224206
+-numpub: 237
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: SYSTEMICO SOFTWARE S.A.S.
+-domic:   BUCARAMANGA, SANTANDER, COLOMBIA
+-----------------------------
+-denomi: LipoAir
+-certi: 481981
+-clase: 44
+-anoexp: 12 225458
+-numpub: 238
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: PERFECTSION COMERCIALIZADORA S.A.S
+-domic:   CARTAGENA, BOLIVAR, COLOMBIA
+-----------------------------
+-denomi: ANANT
+-certi: 481982
+-clase: 12
+-anoexp: 12 225804
+-numpub: 239
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: GERMAN GAVIRIA S. Y CIA. LTDA. DISTRIMOTOS
+-domic:   PEREIRA, RISARALDA, COLOMBIA
+-----------------------------
+-denomi: B-LOV!
+-certi: 481983
+-clase: 30
+-anoexp: 12 226093
+-numpub: 240
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: SANCHEZ CANO, S.A.
+-domic:   MURCIA, ESPAÑA
+-----------------------------
+-denomi: RON ANTIOQUIA SIN AZUCAR
+-certi: 481984
+-clase: 33
+-anoexp: 12 227303
+-numpub: 241
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: FABRICA DE LICORES Y ALCOHOLES DE ANTIOQUIA
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: FOOTIN
+-certi: 481985
+-clase: 18
+-anoexp: 12 227786 18
+-numpub: 242
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: BATA BRANDS SARL
+-domic:   LUXEMBURGO, LUXEMBURGO
+-----------------------------
+-denomi: FOOTIN
+-certi: 481985
+-clase: 25
+-anoexp: 12 227786 25
+-numpub: 242
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: BATA BRANDS SARL
+-domic:   LUXEMBURGO, LUXEMBURGO
+-----------------------------
+-denomi: FOOTIN
+-certi: 481985
+-clase: 35
+-anoexp: 12 227786 35
+-numpub: 242
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: BATA BRANDS SARL
+-domic:   LUXEMBURGO, LUXEMBURGO
+-----------------------------
+-denomi: SANAMENTE
+-certi: 481986
+-clase: 38
+-anoexp: 12 228206 38
+-numpub: 243
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: CARACOL PRIMERA CADENA RADIAL COLOMBIANA S. A. CARACOL S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: SANAMENTE
+-certi: 481986
+-clase: 41
+-anoexp: 12 228206 41
+-numpub: 243
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: CARACOL PRIMERA CADENA RADIAL COLOMBIANA S. A. CARACOL S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Flaqué group Colombia
+-certi: 481987
+-clase: 16
+-anoexp: 12 228920
+-numpub: 244
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: ALEJANDRO FLAQUÉ SANCHO
+-domic:   BARCELONA, BARCELONA, ESPAÑA
+-----------------------------
+-denomi: INSERCHA
+-certi: 481988
+-clase: 37
+-anoexp: 12 229170
+-numpub: 245
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: INDUSTRIAS SERRANO CHANAGA S.A.S. SIGLA INSERCHA S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Arroz Arez
+-certi: 481989
+-clase: 30
+-anoexp: 12 229304
+-numpub: 246
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: LUIS FERNANDO SUAREZ
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: FERIA DE LA CONFECCION MAYORISTA EL GRAN SAN
+-certi: 481990
+-clase: 35
+-anoexp: 12 229448
+-numpub: 247
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: CENTRO COMERCIAL EL GRAN SAN VICTORINO PH
+-domic:  BOGOTA D.C., COLOMBIA
+-----------------------------
+-certi: 481991
+-clase: 16
+-anoexp: 12 229498 16
+-numpub: 248
+-vigen: 21/11/2023
+-tipo: FIGURATIVA
+-solic: ARENA PHARMACEUTICALS GmbH
+-domic:   ZOFINGEN, SUIZA
+-----------------------------
+-certi: 481991
+-clase: 41
+-anoexp: 12 229498 41
+-numpub: 248
+-vigen: 21/11/2023
+-tipo: FIGURATIVA
+-solic: ARENA PHARMACEUTICALS GmbH
+-domic:   ZOFINGEN, SUIZA
+-----------------------------
+-certi: 481991
+-clase: 44
+-anoexp: 12 229498 44
+-numpub: 248
+-vigen: 21/11/2023
+-tipo: FIGURATIVA
+-solic: ARENA PHARMACEUTICALS GmbH
+-domic:   ZOFINGEN, SUIZA
+-----------------------------
+-denomi: deuna
+-certi: 481992
+-clase: 4
+-anoexp: 12 230138
+-numpub: 249
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: ORGANIZACIÓN TERPEL S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: deuna
+-certi: 481993
+-clase: 4
+-anoexp: 12 230157
+-numpub: 250
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: ORGANIZACIÓN TERPEL S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Cherry Pie
+-certi: 481994
+-clase: 25
+-anoexp: 12 230449
+-numpub: 251
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: FORTALEZA ZONA LIBRE, S.A
+-domic:   COLON, COLON, PANAMA
+-----------------------------
+-denomi: CAMLS
+-certi: 481995
+-clase: 41
+-anoexp: 12 230544
+-numpub: 252
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: UNIVERSITY OF SOUTH FLORIDA (AGENCIA ESTATAL)
+-domic:   TAMPA, FLORIDA, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: RCIS (RESIN CLEANER INDUSTRIAL SOLUTIONS)
+-certi: 481996
+-clase: 1
+-anoexp: 12 231235
+-numpub: 253
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: C.I. LIANSA S.A.
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: SEÑORITA REGION CARIBE
+-certi: 481997
+-clase: 41
+-anoexp: 12 231343
+-numpub: 254
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: CONCURSO NACIONAL DE BELLEZA
+-domic:   CARTAGENA, BOLIVAR, COLOMBIA
+-----------------------------
+-denomi: SEÑORITA MANIZALES
+-certi: 481998
+-clase: 41
+-anoexp: 12 231357
+-numpub: 255
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: CONCURSO NACIONAL DE BELLEZA
+-domic:   CARTAGENA, BOLIVAR, COLOMBIA
+-----------------------------
+-denomi: DURAVIT
+-certi: 481999
+-clase: 6
+-anoexp: 12 180018 6
+-numpub: 256
+-vigen: 03/08/2023
+-tipo: MIXTA
+-solic: DURAVIT AG
+-domic:   ALEMANIA
+-----------------------------
+-denomi: DURAVIT
+-certi: 481999
+-clase: 11
+-anoexp: 12 180018 11
+-numpub: 256
+-vigen: 03/08/2023
+-tipo: MIXTA
+-solic: DURAVIT AG
+-domic:   ALEMANIA
+-----------------------------
+-denomi: DURAVIT
+-certi: 481999
+-clase: 20
+-anoexp: 12 180018 20
+-numpub: 256
+-vigen: 03/08/2023
+-tipo: MIXTA
+-solic: DURAVIT AG
+-domic:   ALEMANIA
+-----------------------------
+-denomi: DURAVIT
+-certi: 481999
+-clase: 21
+-anoexp: 12 180018 21
+-numpub: 256
+-vigen: 03/08/2023
+-tipo: MIXTA
+-solic: DURAVIT AG
+-domic:   ALEMANIA
+-----------------------------
+-denomi: CERDELGA
+-certi: 482000
+-clase: 5
+-anoexp: 12 231648
+-numpub: 257
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: GENZYME CORPORATION
+-domic:   CAMBRIDGE, MASSACHUSETTS, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: ConstruCASA Valorizando su futuro
+-certi: 482001
+-clase: 35
+-anoexp: 12 73442
+-numpub: 258
+-vigen: 30/01/2023
+-tipo: MIXTA
+-solic: CAMINOS DEL CAMPESTRE S.A. CONSTRUCA S.A.
+-domic:  BUCARAMANGA, SANTANDER, COLOMBIA
+-----------------------------
+-certi: 482002
+-clase: 28
+-anoexp: 12 231702 28
+-numpub: 259
+-vigen: 21/11/2023
+-tipo: FIGURATIVA
+-solic: MCDONALD´S INTERNATIONAL PROPERTY COMPANY LTD
+-domic:  WILMINGTON, DELAWARE, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-certi: 482002
+-clase: 29
+-anoexp: 12 231702 29
+-numpub: 259
+-vigen: 21/11/2023
+-tipo: FIGURATIVA
+-solic: MCDONALD´S INTERNATIONAL PROPERTY COMPANY LTD
+-domic:  WILMINGTON, DELAWARE, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-certi: 482002
+-clase: 30
+-anoexp: 12 231702 30
+-numpub: 259
+-vigen: 21/11/2023
+-tipo: FIGURATIVA
+-solic: MCDONALD´S INTERNATIONAL PROPERTY COMPANY LTD
+-domic:  WILMINGTON, DELAWARE, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-certi: 482002
+-clase: 32
+-anoexp: 12 231702 32
+-numpub: 259
+-vigen: 21/11/2023
+-tipo: FIGURATIVA
+-solic: MCDONALD´S INTERNATIONAL PROPERTY COMPANY LTD
+-domic:  WILMINGTON, DELAWARE, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-certi: 482002
+-clase: 43
+-anoexp: 12 231702 43
+-numpub: 259
+-vigen: 21/11/2023
+-tipo: FIGURATIVA
+-solic: MCDONALD´S INTERNATIONAL PROPERTY COMPANY LTD
+-domic:  WILMINGTON, DELAWARE, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-certi: 482003
+-clase: 6
+-anoexp: 12 232190
+-numpub: 260
+-vigen: 21/11/2023
+-tipo: TRIDIMENSIONAL
+-solic: AMBIENT MEDIA S.A.S
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: COTTONY
+-certi: 482004
+-clase: 3
+-anoexp: 12 232948 3
+-numpub: 261
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: JERONIMO MARTINS COLOMBIA S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: COTTONY
+-certi: 482004
+-clase: 5
+-anoexp: 12 232948 5
+-numpub: 261
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: JERONIMO MARTINS COLOMBIA S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: CEREARROZ
+-certi: 482005
+-clase: 29
+-anoexp: 12 233274
+-numpub: 262
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: MOLINOS FLORHUILA S.A.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: G&C
+-certi: 482006
+-clase: 9
+-anoexp: 12 233457
+-numpub: 263
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: GRABADOS Y CORTES S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: Maki-Club
+-certi: 482007
+-clase: 28
+-anoexp: 12 234283
+-numpub: 264
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: HARARI LEVI
+-domic:   CARACAS, DISTRITO FEDERAL, VENEZUELA
+-----------------------------
+-denomi: SCOOP
+-certi: 482008
+-clase: 28
+-anoexp: 12 234484
+-numpub: 265
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: S.A.C.I. FALABELLA
+-domic:   SANTIAGO DE CHILE, SANTIAGO, CHILE
+-----------------------------
+-denomi: a puebliar se dijo
+-certi: 482009
+-clase: 39
+-anoexp: 12 235008
+-numpub: 266
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: TURISMO EN MEDELLIN Y VIAJES Y TURISMO GLOBO S.A.S.
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: VIEJO MOLINO
+-certi: 482010
+-clase: 30
+-anoexp: 12 235069
+-numpub: 267
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: KOBA COLOMBIA S.A.S
+-domic:   ITAGUI, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: VIEJO MOLINO
+-certi: 482010
+-clase: 30
+-anoexp: 12 235069
+-numpub: 268
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: KOBA COLOMBIA S.A.S
+-domic:   ITAGUI, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: Fiocco
+-certi: 482011
+-clase: 30
+-anoexp: 12 235107
+-numpub: 269
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: KOBA COLOMBIA S.A.S
+-domic:   ITAGUI, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: Fiocco
+-certi: 482011
+-clase: 30
+-anoexp: 12 235107
+-numpub: 270
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: KOBA COLOMBIA S.A.S
+-domic:   ITAGUI, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: e GLOBAL TECHNOLOGY
+-certi: 482012
+-clase: 35
+-anoexp: 12 235133
+-numpub: 271
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: E GLOBAL TECHNOLOGY S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: SMART Parking
+-certi: 482013
+-clase: 9
+-anoexp: 12 235146
+-numpub: 272
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: E GLOBAL TECHNOLOGY S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: SMART PAYMENT Solutions
+-certi: 482014
+-clase: 9
+-anoexp: 12 235150
+-numpub: 273
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: E GLOBAL TECHNOLOGY S.A.S.
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: REXWALL
+-certi: 482015
+-clase: 19
+-anoexp: 12 235587
+-numpub: 274
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: DEUTSCHE COMPOSITE GMBH Y AR-K SAS
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: NEW PHASE
+-certi: 482016
+-clase: 25
+-anoexp: 12 235603
+-numpub: 275
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: PANTRADING CORP.
+-domic:   PLANTATION, FLORIDA, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: METROTEL REDES S.A
+-certi: 482017
+-clase: 38
+-anoexp: 12 235617
+-numpub: 276
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: METROTEL REDES SA
+-domic:   BARRANQUILLA, ATLANTICO, COLOMBIA
+-----------------------------
+-denomi: durata
+-certi: 482018
+-clase: 6
+-anoexp: 12 235645 6
+-numpub: 277
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: ACEROS Y ALUMINIOS S.A.S
+-domic:   ITAGUI, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: durata
+-certi: 482018
+-clase: 11
+-anoexp: 12 235645 11
+-numpub: 277
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: ACEROS Y ALUMINIOS S.A.S
+-domic:   ITAGUI, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: durata
+-certi: 482018
+-clase: 20
+-anoexp: 12 235645 20
+-numpub: 277
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: ACEROS Y ALUMINIOS S.A.S
+-domic:   ITAGUI, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: durata
+-certi: 482018
+-clase: 21
+-anoexp: 12 235645 21
+-numpub: 277
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: ACEROS Y ALUMINIOS S.A.S
+-domic:   ITAGUI, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: STUDIO 12 - ACADEMIA DE DANZAS
+-certi: 482019
+-clase: 35
+-anoexp: 12 236066
+-numpub: 278
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: FUNDACION ESCUELA DE ARTES GENERACION 12
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: VENIZ XR
+-certi: 482020
+-clase: 5
+-anoexp: 12 236268
+-numpub: 279
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: SUN PHARMACEUTICAL INDUSTRIES LTD
+-domic:   MUMBAI, INDIA
+-----------------------------
+-denomi: AGUAS DE RIONEGRO
+-certi: 482021
+-clase: 37
+-anoexp: 12 210547
+-numpub: 280
+-vigen: 21/11/2023
+-tipo: MIXTA
+-solic: AGUAS DE RIONEGRO S.A. E.S.P.
+-domic:   RIONEGRO, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: ECOMALL
+-certi: 482022
+-clase: 35
+-anoexp: 12 226990
+-numpub: 281
+-vigen: 21/11/2023
+-tipo: NOMINATIVA
+-solic: PROCOMSA SAS
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: uNico AmiGo
+-certi: 482023
+-clase: 35
+-anoexp: 12 197243
+-numpub: 282
+-vigen: 22/11/2023
+-tipo: MIXTA
+-solic: TOLEDO TEXTILES Y MANUFACTURAS S.A. TOLTEX S.A.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: AGENTE MAX
+-certi: 482024
+-clase: 3
+-anoexp: 12 232986 3
+-numpub: 283
+-vigen: 22/11/2023
+-tipo: NOMINATIVA
+-solic: JERONIMO MARTINS COLOMBIA S.A.S.
+-domic:  BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: AGENTE MAX
+-certi: 482024
+-clase: 5
+-anoexp: 12 232986 5
+-numpub: 283
+-vigen: 22/11/2023
+-tipo: NOMINATIVA
+-solic: JERONIMO MARTINS COLOMBIA S.A.S.
+-domic:  BOGOTA D.C., COLOMBIA
+-----------------------------
+-certi: 482025
+-clase: 30
+-anoexp: 12 231362
+-numpub: 284
+-vigen: 22/11/2023
+-tipo: TRIDIMENSIONAL
+-solic: GRUPO BIMBO S.A.B. DE C.V.
+-domic:   MEXICO D.F., MEXICO
+-----------------------------
+-denomi: Comfandi
+-certi: 482026
+-clase: 29
+-anoexp: 12 40260
+-numpub: 285
+-vigen: 25/11/2023
+-tipo: MIXTA
+-solic: CAJA DE COMPENSACION FAMILIAR DEL VALLE DEL CAUCA - COMFAMILIARANDI-COMFANDI
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: SEMILLAS VALLE
+-certi: 482027
+-clase: 35
+-anoexp: 12 105067
+-numpub: 286
+-vigen: 25/11/2023
+-tipo: NOMINATIVA
+-solic: SEMILLAS VALLE S.A.
+-domic:   YUMBO, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: DELIPOLLO
+-certi: 482028
+-clase: 35
+-anoexp: 12 80947
+-numpub: 287
+-vigen: 26/11/2023
+-tipo: MIXTA
+-solic: DIEGO ARMANDO CORTES ANDRADE
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: ILUMINADA
+-certi: 482029
+-clase: 25
+-anoexp: 12 51506
+-numpub: 288
+-vigen: 27/11/2023
+-tipo: MIXTA
+-solic: MARIA ADELAIDA RAMIREZ
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: SALCHICHA SELECCIONADA LA AMERICANA EXTREMA
+-certi: 482030
+-clase: 29
+-anoexp: 12 43645
+-numpub: 289
+-vigen: 27/11/2023
+-tipo: MIXTA
+-solic: ALIMENTOS CARNICOS S.A.S.
+-domic:   YUMBO, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: FLEBOCIR
+-certi: 482031
+-clase: 5
+-anoexp: 12 67959
+-numpub: 290
+-vigen: 27/11/2023
+-tipo: MIXTA
+-solic: A.H- ROBINS S A S
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: ICE-CLOCK
+-certi: 482032
+-clase: 14
+-anoexp: 12 58355
+-numpub: 291
+-vigen: 27/11/2023
+-tipo: NOMINATIVA
+-solic: CHINALUX S.A.
+-domic:   LUXEMBOURG, LUXEMBOURG, LUXEMBURGO
+-----------------------------
+-denomi: LIFECHO2ICE
+-certi: 482033
+-clase: 10
+-anoexp: 12 67291
+-numpub: 292
+-vigen: 27/11/2023
+-tipo: MIXTA
+-solic: INOVA LABS, INC.
+-domic:   AUSTIN, TEXAS, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: EVEREST DENTAL ANIMATION
+-certi: 482034
+-clase: 9
+-anoexp: 12 93405
+-numpub: 293
+-vigen: 27/11/2023
+-tipo: MIXTA
+-solic: LVMAX S.A.S
+-domic:   MEDELLIN, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: CAVALIA
+-certi: 482035
+-clase: 41
+-anoexp: 12 23521
+-numpub: 294
+-vigen: 27/11/2023
+-tipo: MIXTA
+-solic: CAVALIA LUXEMBOURG SÁRL.
+-domic:   HESPERANGE, LUXEMBOURG, LUXEMBURGO
+-----------------------------
+-denomi: BANKIA
+-certi: 482036
+-clase: 36
+-anoexp: 12 75200
+-numpub: 295
+-vigen: 27/11/2023
+-tipo: MIXTA
+-solic: BANKIA, S.A.
+-domic:   MADRID, ESPAÑA
+-----------------------------
+-denomi: GRAMINEX
+-certi: 482037
+-clase: 5
+-anoexp: 12 3685
+-numpub: 296
+-vigen: 27/11/2023
+-tipo: NOMINATIVA
+-solic: GRAMINEX, L.L.C.
+-domic:   MICHIGAN, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: FEMICARE BIENESTAR PARA LA MUJER DE HOY
+-certi: 482038
+-clase: 5
+-anoexp: 12 32886
+-numpub: 297
+-vigen: 06/05/2015
+-tipo: NOMINATIVA
+-solic: LABORATORIO FRANCO COLOMBIANO LAFRANCOL S.A.S.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: DELICIAS NUTRITIVAS EN UN QUICK
+-certi: 482039
+-clase: 43
+-anoexp: 12 97030
+-numpub: 298
+-vigen: 26/10/2022
+-tipo: NOMINATIVA
+-solic: QUICK AND TASTY (RAPIDOS Y SABROSOS) DE COLOMBIA S.A.
+-domic:   CALI, VALLE DEL CAUCA, COLOMBIA
+-----------------------------
+-denomi: XTREME
+-certi: 482040
+-clase: 9
+-anoexp: 12 2951
+-numpub: 299
+-vigen: 28/11/2023
+-tipo: NOMINATIVA
+-solic: MD AUDIO ENGINEERING, INC.
+-domic:   MIAMI, FLORIDA, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: NINAZO
+-certi: 482041
+-clase: 5
+-anoexp: 12 84980
+-numpub: 300
+-vigen: 28/11/2023
+-tipo: NOMINATIVA
+-solic: DAMIANO LICENSING BV.
+-domic:   AMSTERDAM, PAISES BAJOS
+-----------------------------
+-denomi: ACTIVELISS
+-certi: 482042
+-clase: 3
+-anoexp: 12 33785
+-numpub: 301
+-vigen: 28/11/2023
+-tipo: MIXTA
+-solic: VANESSA GARCIA VANEGAS
+-domic:   ENVIGADO, ANTIOQUIA, COLOMBIA
+-----------------------------
+-denomi: COKETA
+-certi: 482043
+-clase: 3
+-anoexp: 12 69765 3
+-numpub: 302
+-vigen: 28/11/2023
+-tipo: MIXTA
+-solic: MLORA S.A.S
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: COKETA
+-certi: 482043
+-clase: 35
+-anoexp: 12 69765 35
+-numpub: 302
+-vigen: 28/11/2023
+-tipo: MIXTA
+-solic: MLORA S.A.S
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: MARCH ACTIVE
+-certi: 482044
+-clase: 12
+-anoexp: 12 95061
+-numpub: 303
+-vigen: 28/11/2023
+-tipo: NOMINATIVA
+-solic: NISSAN JIDOSHA KABUSHIKI KAISHA (TAMBIEN COMERCIANDO COMO NISSANMOTOR CO., LTD.)
+-domic:   YOKOHAMA-SHI, KANAGAWA-KEN, JAPON
+-----------------------------
+-denomi: CAMINA
+-certi: 482045
+-clase: 35
+-anoexp: 12 96091
+-numpub: 304
+-vigen: 28/11/2023
+-tipo: MIXTA
+-solic: COMMERCECOL S.A.S
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: CONFEDERACION COLOMBIANA DE CONSUMIDORES
+-certi: 482046
+-clase: 41
+-anoexp: 12 66930 41
+-numpub: 305
+-vigen: 29/11/2023
+-tipo: MIXTA
+-solic: CONFEDERACION COLOMBIANA DE CONSUMIDORES CONCOLOMBIA
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: CONFEDERACION COLOMBIANA DE CONSUMIDORES
+-certi: 482046
+-clase: 45
+-anoexp: 12 66930 45
+-numpub: 305
+-vigen: 29/11/2023
+-tipo: MIXTA
+-solic: CONFEDERACION COLOMBIANA DE CONSUMIDORES CONCOLOMBIA
+-domic:   BOGOTA D.C., COLOMBIA
+-----------------------------
+-denomi: OPTISCENT
+-certi: 482047
+-clase: 16
+-anoexp: 12 68911 16
+-numpub: 306
+-vigen: 29/11/2023
+-tipo: NOMINATIVA
+-solic: AKI, INC.
+-domic:   NEW YORK, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: OPTISCENT
+-certi: 482047
+-clase: 42
+-anoexp: 12 68911 42
+-numpub: 306
+-vigen: 29/11/2023
+-tipo: NOMINATIVA
+-solic: AKI, INC.
+-domic:   NEW YORK, ESTADOS UNIDOS DE AMÉRICA
+-----------------------------
+-denomi: FLEXAFLEX
+-certi: 482048
+-clase: 30
+-anoexp: 12 80008
+-numpub: 307
+-vigen: 05/12/2023
+-tipo: NOMINATIVA
+-solic: EDIRSON VALENCIA MENDOZA
+-domic:   FLORIDABLANCA, SANTANDER, COLOMBIA
+-----------------------------
+-denomi: MAG-NUM STAR
+-certi: 482049
+-clase: 11
+-anoexp: 12 96978
+-numpub: 308
+-vigen: 31/10/2022
+-tipo: NOMINATIVA
+-solic: MAG INSTRUMENT, INC.
+-domic:   ONTARIO, CALIFORNIA, ESTADOS UNIDOS DE AMÉRICA
+----------------------------- 

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gacar>
+  <marca>
+    <np></np>
+    <expediente>3299468</expediente>
+    <fecha_solicitud>20/12/2013 02:02:16</fecha_solicitud>
+    <denominacion>AVENT</denominacion>
+    <tipo_denomi></tipo_denomi>
+    <tipomarca>DENOMINATIVA</tipomarca>
+    <clases>20</clases>
+    <titular>KONINKLIJKE PHILIPS N.V. 100 %</titular>
+    <domicilio>PAISES BAJOS (HOLANDA)</domicilio>
+    <direccion>HIGH TECH CAMPUS 5, EINDHOVEN CP. 5656 AE</direccion>
+    <apoderado>764 TELLECHEA, JULIA ELENA</apoderado>
+    <gaceta>3883</gaceta>
+    <fecha_publicacion>05/11/2014</fecha_publicacion>
+    <plazo_opo></plazo_opo>
+  </marca>
+  <marca>
+    <np></np>
+    <expediente>3343260</expediente>
+    <fecha_solicitud>30/07/2014 03:04:01</fecha_solicitud>
+    <denominacion>UNIVERSITA CATTOLICA DEL SACRO CUORE</denominacion>
+    <tipo_denomi></tipo_denomi>
+    <tipomarca>MIXTA</tipomarca>
+    <clases>41</clases>
+    <titular>UNIVERSITA CATTOLICA DEL SACRO CUORE PERSONA JURÍDICA DE DERECHO PÚBLICO OTRA 100 %</titular>
+    <domicilio>ITALIA</domicilio>
+    <direccion>LARGO GEMELLI 1, MILÁN CP. 20123</direccion>
+    <apoderado>1517 LERNER, ERICA DENISE</apoderado>
+    <gaceta>3882</gaceta>
+    <fecha_publicacion>05/11/2014</fecha_publicacion>
+    <plazo_opo></plazo_opo>
+  </marca>
+</gacar>

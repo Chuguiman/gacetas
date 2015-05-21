@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="orbisoft.ico">
+
+    <title>Dashboard Orbisoft 2014</title>
+	
+    <!-- Bootstrap core CSS 
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	-->
+    <!-- Custom styles for this template -->
+    <link href="css/dom.css" rel="stylesheet">
+	
+	<!-- Loading Bootstrap -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- Loading Flat UI -->
+    <link href="css/flat-ui.css" rel="stylesheet">
+	
+	<!-- Loading Flat UI -->
+    <link href="css/demo.css" rel="stylesheet">
+	
+	<!-- Loading Flat UI -->
+    <link href="css/gacetas.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Gacetas</a>
+        </div>
+        
+      </div>
+    </nav>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-3 col-md-2 sidebar">
+          <ul class="nav nav-sidebar">
+            <li class="active"><a href="#">Historial <span class="sr-only">(current)</span></a></li>
+            <li><a href="paises/ar/gacar.html" class="lnk" >Argentina</a></li>
+            <li><a href="paises/bo/gacbo.html" class="lnk" >Bolivia</a></li>
+            <li><a href="paises/br/gacbr.html" class="lnk" >Brasil</a></li>
+            <li><a href="paises/pe/gacpe.html" class="lnk" >Perú</a></li>
+            <li><a href="paises/py/gacpy.html" class="lnk" >Paraguay</a></li>
+            <li><a href="paises/do/gacdo.html" class="lnk" >Rep. Dominicana</a></li>
+            <li><a href="paises/gt/gacgt.html" class="lnk" >Guatemala</a></li>
+            <li><a href="paises/sv/gacsv2.html" class="lnk" >El Salvador</a></li>
+      			<li><a href="paises/ec/gacec.html" class="lnk" >Ecuador</a></li>
+      			<li><a href="paises/uy/gacuy.html" class="lnk" >Uruguay</a></li>
+      			<li><a href="paises/pa/gacpa.html" class="lnk" >Panama</a></li>
+            <li><a href="paises/es/gacbopi.html" class="lnk" >España</a></li>
+            <li><a href="paises/mx/gacmx.html" class="lnk" >Mexico</a></li>
+      			<li><a href="paises/crea_xmlgac_pais.html" class="lnk" >Crea XML</a></li>
+          </ul>
+        </div>
+        <div id="contenido" class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		  // select all the links with class="lnk", when one of them is clicked, get its "href" value
+		  // load the content from that URL and place it into the tag with id="content"
+		  $('a.lnk').click(function() {
+			var url = $(this).attr('href');
+			$('#contenido').load(url);
+			return false;
+		  });
+		});
+	</script>
+    <script src="dist/js/bootstrap.min.js"></script>
+	
+  </body>
+</html>

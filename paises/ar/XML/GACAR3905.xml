@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gacar>
+  <marca>
+    <np></np>
+    <expediente>3354192</expediente>
+    <fecha_solicitud>16/09/2014 02:31:22</fecha_solicitud>
+    <denominacion>EST</denominacion>
+    <tipo_denomi></tipo_denomi>
+    <tipomarca>MIXTA</tipomarca>
+    <clases> 19</clases>
+    <titular>ASCENSORES SERVAS S.A. 100 %</titular>
+    <domicilio>ARGENTINA</domicilio>
+    <direccion>ALSINA 909 P.B., CAPITAL FEDERAL CP. 1088</direccion>
+    <apoderado>883 FERNANDEZ ARES, FELIX MARIANO</apoderado>
+    <gaceta>3905</gaceta>
+    <fecha_publicacion>10/12/2014</fecha_publicacion>
+    <plazo_opo></plazo_opo>
+  </marca>
+  <marca>
+    <np></np>
+    <expediente>3354245</expediente>
+    <fecha_solicitud>16/09/2014 10:37:53</fecha_solicitud>
+    <denominacion>KEPIU</denominacion>
+    <tipo_denomi></tipo_denomi>
+    <tipomarca>DENOMINATIVA</tipomarca>
+    <clases> 33</clases>
+    <titular>CATTANEO, OLGA PATRICIA 100 %</titular>
+    <domicilio>ARGENTINA</domicilio>
+    <direccion>AV. ARGENTINA 5455, CABA CP. 1439</direccion>
+    <apoderado>2120 NIEVA, HUGO GONZALO</apoderado>
+    <gaceta>3905</gaceta>
+    <fecha_publicacion>10/12/2014</fecha_publicacion>
+    <plazo_opo></plazo_opo>
+  </marca>
+</gacar>

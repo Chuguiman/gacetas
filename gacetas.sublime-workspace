@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"ex",
+				"exp"
+			],
+			[
 				"ca",
 				"cadsw"
 			],
@@ -50,10 +54,6 @@
 			[
 				"tipo",
 				"tipomarca"
-			],
-			[
-				"ex",
-				"expv"
 			],
 			[
 				"echo",
@@ -283,14 +283,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "paises/gt/descarga_gacgt_dia.php",
-			"settings":
-			{
-				"buffer_size": 8748,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -360,10 +352,21 @@
 	},
 	"file_history":
 	[
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/es/xmlbopi.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/es/origen/27042015c.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/es/origen/TOMO1_27-04-2015.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/es/xmlborpi.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/es/gacborpi.html",
+		"/Users/hugorincon/Documents/Hugo/Personal/HugoXPS7102010/www/bajo/sapi.php",
+		"/Users/hugorincon/Documents/Hugo/Personal/HugoXPS7102010/www/bajo/peru2.php",
+		"/Users/hugorincon/Documents/Hugo/Personal/HugoXPS7102010/www/bajo/GACPE20100528.html",
+		"/Users/hugorincon/Documents/Hugo/Personal/HugoXPS7102010/www/bajo/3peru.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/link_nuevos_paises.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/clases/_func_pdf2txtgac.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/gt/descarga_gacgt_dia.php",
 		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/gt/gacgt.html",
 		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/css/demo.css",
 		"/Users/hugorincon/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
-		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/gt/descarga_gacgt_dia.php",
 		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/gt/precarga_dia_gacgt.php",
 		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ar/_func_html2xmlgac_ar.php",
 		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/do/origen/340.xml",
@@ -476,18 +479,7 @@
 		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pe/_func_html2xmlgac_pe.php",
 		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pa/origen/319.xml",
 		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pa/origen/31.xml",
-		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pa/gacpa.html",
-		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pa/_func_html2xmlgac_pa.php",
-		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/gt/GT16122014.html",
-		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/gt/descarga_gacgt.php",
-		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ec/XML/GACEC598.xml",
-		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ec/origen/598.html",
-		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ec/origen/597.html",
-		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/ec/origen/596.html",
-		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/do/XML/GACDO332.xml",
-		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/do/XML/GACDO331.xml",
-		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/do/XML/GACDO330.xml",
-		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/do/XML/GACDO328.xml"
+		"/Applications/XAMPP/xamppfiles/htdocs/gacetas/paises/pa/gacpa.html"
 	],
 	"find":
 	{
@@ -506,6 +498,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Marcas",
+			"$np = $marca->PublicacionId;",
+			"PR",
+			"PUERTO\npuerto",
+			"puerto rico",
 			"20158775",
 			"Page Number=\"443\"/>",
 			"          ",
@@ -579,84 +576,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "paises/gt/descarga_gacgt_dia.php",
-					"settings":
-					{
-						"buffer_size": 8748,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								302,
-								302
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2695.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -706,11 +627,11 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": false,
 	"show_open_files": true,

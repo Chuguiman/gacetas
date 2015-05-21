@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gacar>
+  <marca>
+    <np></np>
+    <expediente> </expediente>
+    <fecha_solicitud></fecha_solicitud>
+    <denominacion></denominacion>
+    <tipo_denomi></tipo_denomi>
+    <tipomarca></tipomarca>
+    <clases> </clases>
+    <titular></titular>
+    <domicilio></domicilio>
+    <direccion>, </direccion>
+    <apoderado></apoderado>
+    <gaceta></gaceta>
+    <fecha_publicacion></fecha_publicacion>
+    <plazo_opo></plazo_opo>
+  </marca>
+</gacar>
